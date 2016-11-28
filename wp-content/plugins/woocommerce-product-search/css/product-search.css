@@ -1,0 +1,117 @@
+/**
+ * product-search.css
+ *
+ * Copyright (c) "kento" Karim Rahimpur www.itthinx.com
+ *
+ * This code is provided subject to the license granted.
+ * Unauthorized use and distribution is prohibited.
+ * See COPYRIGHT.txt and LICENSE.txt
+ *
+ * This code is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ *
+ * This header and all notices must be kept intact.
+ *
+ * @author itthinx
+ * @package woocommerce-product-search
+ * @since 1.0.0
+ */
+.product-search.floating {
+	position: relative;
+	left: 0;
+	top: 0;
+}
+.product-search.floating .product-search-results {
+	position: absolute;
+	z-index: 10;
+	background: #fff;
+	border: 1px solid #ccc;
+	margin: -1px 0 0 0;
+}
+.product-search.floating .product-search-results:empty {
+	border: none;
+}
+.product-search input[type="text"].product-search-field {
+	width: 85%;
+}
+.product-search .product-search-results {
+	display: none;
+}
+.product-search-form input.blinker {
+	background-image: url( ../images/blinker.gif );
+	background-position: right center;
+	background-repeat: no-repeat;
+}
+.product-search-results .entry,
+.product-search-results .no-results {
+	padding: 1px;
+}
+
+.product-search-results .entry a {
+	text-decoration: none;
+}
+.product-search-results .entry span.title {
+	font: inherit;
+	display: block;
+}
+.product-search-results .entry span.title,
+.product-search-results .entry span.description,
+.product-search-results .entry span.price,
+.product-search-results .entry img.thumbnail {
+	vertical-align: middle;
+}
+.product-search-results .entry span.description,
+.product-search-results .entry span.price {
+	display: block;
+	font-size: 80%;
+}
+.product-search-results .entry img.thumbnail {
+	max-width: none;
+}
+.product-search-results .entry a span.title:hover {
+	text-decoration: underline;
+}
+.product-search-results .entry:hover,
+.product-search-results .entry.active {
+	background-color: #ddd;
+	font-weight: bolder;
+}
+.product-search-results .entry.s_product_cat.first {
+	border-top: 1px solid #ccc;
+}
+.product-search-results table.search-results {
+	table-layout: auto;
+}
+.product-search-results table.search-results {
+	border: 0;
+	border-collapse: collapse;
+	border-spacing: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+	width: 100%;
+}
+.product-search-results table.search-results td:last-child {
+	width: 100%;
+}
+.product-search-results table.search-results tr:nth-child(n) td {
+	background-color: inherit;
+}
+.product-search-results table.search-results tr,
+.product-search-results table.search-results tr td,
+.entry-content .product-search-results table.search-results tr td {
+	border: none;
+	margin: 0;
+	padding: 0;
+}
+.product-search-results table.search-results tr td,
+.entry-content .product-search-results table.search-results tr td {
+	padding: 4px;
+	vertical-align: top;
+	text-align: left;
+}

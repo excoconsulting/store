@@ -1,0 +1,49 @@
+.rml-options {
+    background: #E1E1E1;
+}
+
+.rml-options nav {
+    background: url(../image/icon-2.3.png) no-repeat 10px center white;
+    padding-left: 70px;
+}
+
+.rml-options nav ul {
+    padding: 0px;
+    margin: 0px;
+}
+.rml-options nav li {
+    display: inline-block;
+    cursor: pointer;
+    margin: 0px;
+    padding: 25px 10px;
+    border-left: 1px solid #E1E1E1;
+}
+.rml-options nav li:last-of-type {
+    border-right: 1px solid #E1E1E1;
+}
+.rml-options nav li.active {
+    border-color: #536D79;
+    background: #536D79;
+    color: white;
+}
+
+.rml-options > table {
+    display: none;
+    margin: 0px;
+}
+
+.rml-options > table td,
+.rml-options > table th {
+    padding: 17px 20px;
+}
+
+
+
+
+#rml-list-options-order {
+    background: #F1F1F1;
+    padding: 10px 10px 1px 7px;
+    margin-top: 18px;
+    border: 1px solid #CACACA;
+    box-shadow: inset 3px 3px 3px #E6E6E6;
+}

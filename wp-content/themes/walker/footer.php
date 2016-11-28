@@ -1,0 +1,1 @@
+<?php walker_edge_get_footer(); ?>

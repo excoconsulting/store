@@ -1,0 +1,82 @@
+/**
+ * woocommerce-group-coupons.css
+ *
+ * Copyright (c) "kento" Karim Rahimpur www.itthinx.com
+ *
+ * This code is provided subject to the license granted.
+ * Unauthorized use and distribution is prohibited.
+ * See COPYRIGHT.txt and LICENSE.txt
+ *
+ * This code is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ *
+ * This header and all notices must be kept intact.
+ */
+.groups-coupon-container {
+	border-radius: 3px;
+	padding: 0.31em;
+	width: 240px;
+	margin: 1em;
+	box-shadow: 0 0 5px #e0e0e0;
+}
+.groups-coupon-container.blue {
+	background-color: #e0f7ff;
+}
+.groups-coupon-container.blue a {
+	color: #3097af;
+	font-weight: bold;
+	text-decoration: none;
+}
+.groups-coupon-container.red {
+	background-color: #ffe0e0;
+}
+.groups-coupon-container.red a {
+	color: #9f3030;
+	font-weight: bold;
+	text-decoration: none;
+}
+.groups-coupon-container.green {
+	background-color: #e0ffe0;
+}
+.groups-coupon-container.green a {
+	color: #309030;
+	font-weight: bold;
+	text-decoration: none;
+}
+.groups-coupon-container.yellow {
+	background-color: #f7f7e0;
+}
+.groups-coupon-container.yellow a {
+	color: #979730;
+	font-weight: bold;
+	text-decoration: none;
+}
+.groups-coupon {
+	border-radius: 2px;
+	padding: 0.31em;
+}
+.groups-coupon.blue {
+	border: 2px dashed #c0d7ee;
+}
+.groups-coupon.red {
+	border: 2px dashed #eec0c0;
+}
+.groups-coupon.green {
+	border: 2px dashed #c0eec0;
+}
+.groups-coupon.yellow {
+	border: 2px dashed #e0e0c0;
+}
+.groups-coupon .code {
+	font-family: monospace;
+	font-size: 1.6em;
+}
+.groups-coupon .code,
+.groups-coupon .discount-info {
+	text-align: center;
+}
+.groups-coupon .discount-info {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 1em;
+}

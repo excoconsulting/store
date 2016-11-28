@@ -1,0 +1,16 @@
+#wc_crm_account_data .handlediv, #wc_crm_account_data h3.hndle {
+    display: none;
+}
+
+#wc_crm_account_data .inside{
+    margin: 0;
+    padding: 0;
+    display: block !important;
+}
+#poststuff #wc_crm-account-actions .inside {
+    margin: 0;
+    padding: 0;
+}
+#wc_crm_account_data .order_data_column.account_data_column p.form-field{
+  width: 100%;
+}

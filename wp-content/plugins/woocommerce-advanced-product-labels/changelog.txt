@@ -1,0 +1,25 @@
+*** WooCommerce Advanced Product Labels Changelog ***
+
+2015.09.29 - version 1.0.4
+* [Fix] - Variable product {percentage} smart label now showing the right percentage
+* [Improvement] - Keep the Woo settings menu open while in Product Label edit screen.
+* [Improvement] - Use get_regular_price & get_sale_price functions for discount calculation.
+* [Remove] - Visibility options from the Product Labels post type.
+
+2015.07.14 - version 1.0.3
+* [Fix] - Error showing when using the 'shipping class' condition
+* [Improvement] - Changelog format to Woo's standard
+
+2015.05.16 - version 1.0.2
+* [Add] - Custom text/bg color
+* [Improvement] - Add filter for label types
+* [Fix] - Error 'division by zero' when regular price is 0
+* [Fix] - HUGE typo in plugin name! You actually spell WooComerce with TWO M's!
+* [Fix] - Exclude from global option doesn't exclude
+
+2015.02.11 - version 1.0.1
+* Fix single php short tag '<?'
+* Improvement in featured products condition matcher
+
+2015.02.03 - version 1.0.0
+* Initial release

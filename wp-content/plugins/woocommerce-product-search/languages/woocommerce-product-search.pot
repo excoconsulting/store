@@ -1,0 +1,632 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: PACKAGE VERSION\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2014-09-25 13:20+0200\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=CHARSET\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+#: admin/class-woocommerce-product-search-admin.php:116
+msgid   "<code>[woocommerce_product_search]</code>"
+msgstr  ""
+
+#: core/class-woocommerce-product-search.php:135
+msgid   "<em>WooCommerce Product Search</em> is an extension for the <a href="
+        "\"http://www.woothemes.com/woocommerce/\" target=\"_blank"
+        "\">WooCommerce</a> plugin. Please install and activate it."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:68
+msgid   "A dynamic product search widget"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:193
+#: admin/class-woocommerce-product-search-admin.php:257
+msgid   "Access denied."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:298
+msgid   "Ascending"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:510
+msgid   "Auto-adjust results width"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:502
+msgid   "Automatically adjust the width of the results to match that of the "
+        "search field."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:351
+msgid   "By default, the higher title weight will promote search results that "
+        "have matches in the title."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:306
+#: admin/class-woocommerce-product-search-admin.php:468
+msgid   "CSS"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:337
+msgid   "Category Limit"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-thumbnail.php:244
+msgid   "Change"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:389
+msgid   "Characters"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:118
+msgid   "Click <em>Publish</em> to save the page content and publish the page."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:125
+msgid   "Click the widget, then click one of the sidebar options that appear "
+        "below and then click <em>Add Widget</em>. You can also drag and drop "
+        "the widget onto an available sidebar."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:383
+msgid   "Content"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:445
+msgid   "Crop thumbnails"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:281
+msgid   "Date"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:377
+msgid   "Delay"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:304
+msgid   "Descending"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:68
+#: admin/class-woocommerce-product-search-admin.php:87
+msgid   "Documentation"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:470
+msgid   "Dynamic focus"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:94
+msgid   "Enable the use of weights to improve the relevance in product search "
+        "results, based on matches in product titles, excerpts, contents and "
+        "tags."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:372
+msgid   "Excerpt"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:317
+msgid   "FAQ"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:517
+msgid   "Filter search results based on the current language."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:485
+msgid   "Floating results"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:115
+msgid   "From your WordPress Dashboard go to <strong>Pages > Add New</"
+        "strong>. Place the following shortcode on the page:"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:107
+#, php-format
+msgid   "Go to <a href=\"%s\"><strong>WooCommerce > Settings > Search</"
+        "strong></a>, check the option <em>Use weights</em> and save the "
+        "changes."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:433
+msgid   "Height"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:283
+msgid   "ID"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:460
+msgid   "If enabled, products without a featured product image will show a "
+        "default placeholder thumbnail image."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:343
+msgid   "If enabled, the relevance in product search results is enhanced by "
+        "taking weights into account."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:449
+msgid   "If enabled, the thumbnail images are cropped to match the dimensions "
+        "exactly. Otherwise the thumbnails will be adjusted in size while "
+        "matching the aspect ratio of the original image."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:412
+msgid   "If enabled, the visitor can use the cursor keys to navigate through "
+        "the search results and visit a search result link by pressing the "
+        "Enter key."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:398
+msgid   "If the Enter key is not inhibited, a normal product search is "
+        "requested when the visitor presses the Enter key in the search field."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:497
+msgid   "If this option is enabled, the inline styles are used when the "
+        "product search is displayed."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:484
+msgid   "If this option is enabled, the standard stylesheet is loaded when "
+        "the product search is displayed."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:406
+msgid   "Inhibit form submission via the <em>Enter</em> key"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:487
+msgid   "Inline Styles"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:502
+msgid   "Inline styles"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:123
+msgid   "Instant Search Widget"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:113
+msgid   "Instant Search on a Page"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:312
+msgid   "Limit"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:336
+msgid   "Limit the maximum number of category results shown."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:311
+msgid   "Limit the maximum number of results shown."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:420
+msgid   "Navigable results"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:493
+msgid   "No results"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:128
+msgid   "Note that you can place more than one widget in one or more sidebars "
+        "and that each widget can use its individual settings."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:119
+msgid   "Now click <em>View Page</em> which will show you the search field on "
+        "your newly created page."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:273
+msgid   "Order by ..."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:272
+msgid   "Order the results by the chosen property."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:103
+msgid   "Place the <code>[woocommerce_product_search]</code> shortcode on a "
+        "page or use the <em>WooCommerce Instant Product Search</em> widget "
+        "in a sidebar."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:428
+msgid   "Placeholder"
+msgstr  ""
+
+#: core/class-woocommerce-product-search-service.php:427
+msgid   "Placeholder Image"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:456
+msgid   "Placeholder thumbnails"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:117
+msgid   "Please make sure that the spelling is correct, all letters must be "
+        "in lower case."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:89
+msgid   "Please refer to the <a href=\"http://docs.woothemes.com/document/"
+        "woocommerce-product-search/\">WooCommerce Product Search</a> "
+        "documentation page for more details."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:100
+msgid   "Positive weights inrease the relevance in product searches while "
+        "negative weights decrease it."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:415
+msgid   "Presentation"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-thumbnail.php:194
+msgid   "Product Search Thumbnail"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin-product.php:128
+msgid   "Product search relevance."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:284
+msgid   "Random"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:346
+msgid   "Relevance"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:518
+msgid   "Save changes"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:81
+#: admin/class-woocommerce-product-search-admin.php:85
+#: admin/class-woocommerce-product-search-admin.php:177
+#: admin/class-woocommerce-product-search-admin-product.php:67
+#: views/class-woocommerce-product-search-shortcodes.php:90
+#: views/class-woocommerce-product-search-shortcodes.php:99
+#: views/class-woocommerce-product-search-widget.php:425
+#: views/class-woocommerce-product-search-widget.php:450
+msgid   "Search"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:371
+msgid   "Search Form and UI Interaction"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:212
+msgid   "Search Results"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin-product.php:93
+#: admin/class-woocommerce-product-search-admin-product.php:129
+#: admin/class-woocommerce-product-search-admin-product.php:167
+#: admin/class-woocommerce-product-search-admin-product.php:185
+#: admin/class-woocommerce-product-search-admin-product.php:228
+msgid   "Search Weight"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:106
+#: admin/class-woocommerce-product-search-admin.php:333
+msgid   "Search Weights"
+msgstr  ""
+
+#: core/class-woocommerce-product-search-service.php:487
+#, php-format
+msgid   "Search in %s"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:252
+msgid   "Search in contents"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:238
+msgid   "Search in excerpts"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:266
+msgid   "Search in tags"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:224
+msgid   "Search in titles"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:477
+msgid   "Search results are shown floating below the search field."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:321
+msgid   "Search results should include categories with matching results."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:258
+msgid   "Search results should include entries with matching tags."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:244
+msgid   "Search results should include matches in contents."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:230
+msgid   "Search results should include matches in excerpts."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:216
+msgid   "Search results should include matching titles."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:67
+msgid   "Settings"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:92
+msgid   "Setup"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:345
+msgid   "Show a product thumbnail for each result."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:437
+msgid   "Show a submit button along with the search field."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:329
+msgid   "Show category matches"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:367
+msgid   "Show descriptions"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:353
+msgid   "Show product thumbnails"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:359
+msgid   "Show short product descriptions."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:462
+msgid   "Show/hide search results when the search input field gains/loses "
+        "focus."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:474
+msgid   "Standard Stylesheet"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:445
+msgid   "Submit button"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:453
+msgid   "Submit button label"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:394
+msgid   "Tags"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:315
+msgid   "The <strong>Search</strong> section in the <strong>Help</strong> tab "
+        "above provides a brief overview."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:108
+msgid   "The default values provide search results with an increased "
+        "relevance for products with matching Titles, Product Short "
+        "Descriptions and Tags in that order."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:376
+#, php-format
+msgid   "The delay until the search starts after the user stops typing (in "
+        "milliseconds, minimum %d)."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:114
+msgid   "The following procedure provides describes how you can place an "
+        "instant product search field on a page."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:349
+msgid   "The following weights determine the relevance of matches in the "
+        "product title, excerpt, content and tags."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-thumbnail.php:197
+msgid   "The image size used to display thumbnails of the main product image "
+        "within search results using the <code>&#91;"
+        "woocommerce_product_search&#93;</code> shortcode or the "
+        "<em>WooCommerce Instant Product Search</em> widget."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:388
+msgid   "The minimum number of characters required to start a search."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:427
+msgid   "The placeholder text for the search field."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:109
+msgid   "The relevance of a product in search results is based on matches in "
+        "its Title, the Product Short Description (Excerpt), its Content and "
+        "related Tags. Its relevance increases with the search weight of the "
+        "categories that the product belongs to and its specific search "
+        "weight."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin-product.php:95
+msgid   "The search weight of this product represents its relevance in "
+        "product search results. Products with higher search weights appear "
+        "first in search results."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:452
+msgid   "The text shown on the submit button."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:492
+msgid   "The text shown when no search results are obtained."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:353
+msgid   "The weight of products and product categories can be modified "
+        "individually, the computed sum of weights determines the relevance "
+        "of a product in search results."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:206
+msgid   "The widget title."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:412
+#: admin/class-woocommerce-product-search-admin.php:471
+msgid   "These settings are related to the <code>[woocommerce_product_search]"
+        "</code> shortcode, the <em>WooCommerce Instant Product Search</em> "
+        "widget and the <em>WooCommerce Product Search</em> extension's API "
+        "functions."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:300
+#: admin/class-woocommerce-product-search-admin.php:409
+msgid   "Thumbnails"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:361
+#: views/class-woocommerce-product-search-widget.php:207
+#: views/class-woocommerce-product-search-widget.php:282
+msgid   "Title"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:110
+msgid   "To adjust the relevance of a product category, go to "
+        "<strong>Products > Categories</strong>. Edit the desired category "
+        "and indicate a <em>Search Weight</em> - the relevance of all "
+        "products that belong to the category can be increased by indicating "
+        "a positive value. If a product belongs to several categories, the "
+        "maximum <em>Search Weight</em> is used."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:111
+msgid   "To adjust the relevance of a single product, go to <strong>Products</"
+        "strong>. Edit the desired product and under <strong>Product Data > "
+        "Search</strong> indicate the desired <em>Search Weight</em>."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:127
+msgid   "To fine-tune the widget, click the widget after placing it in one of "
+        "your sidebars and review the available options. Please refer to the "
+        "documentation for details on the advanced options."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:121
+msgid   "To refine the settings used, please refer to the advanced "
+        "configuration options and the shortcode attributes described in the "
+        "documentation."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:120
+msgid   "To test the field, at least one product must be published in your "
+        "store. Start typing a search keyword, search results will show up "
+        "below the field after you stop typing for an instant."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:124
+msgid   "To use the widget, go to <strong>Appearance > Widgets</strong> and "
+        "locate the <em>WooCommerce Instant Product Search</em> in the "
+        "<em>Available Widgets</em> section."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:493
+msgid   "Use inline styles"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:480
+msgid   "Use the standard stylesheet"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:339
+msgid   "Use weights"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:126
+msgid   "Visit a page on your site where the sidebar appears and type in a "
+        "keyword related to one or more of your products."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:525
+msgid   "WMPL Language Filter"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:294
+msgid   "Weights"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:97
+msgid   "Weights can also be set for specific products and product categories."
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:423
+msgid   "Width"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:418
+msgid   "Width and height in pixels used for thumbnails displayed in product "
+        "search results."
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:50
+msgid   "WooCommerce Instant Product Search"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-thumbnail.php:242
+msgid   "cropped"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-widget.php:381
+msgid   "ms"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin.php:427
+#: admin/class-woocommerce-product-search-admin.php:437
+msgid   "px"
+msgstr  ""
+
+#: views/class-woocommerce-product-search-thumbnail.php:242
+msgid   "uncropped"
+msgstr  ""
+
+#: admin/class-woocommerce-product-search-admin-product.php:96
+#: admin/class-woocommerce-product-search-admin-product.php:170
+#: admin/class-woocommerce-product-search-admin-product.php:189
+msgid   "unspecified"
+msgstr  ""

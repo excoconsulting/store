@@ -1,0 +1,18 @@
+*** WooCommerce Distance Rate Shipping Changelog ***
+
+2016.03.26 - version 1.0.4
+* Fix - Prevent first rule from applying when no rules are matched.
+* Fix - Accuracy of distance due to origin address fields are combining state and country.
+* New - State and country field is now separated for return more accurate distance.
+
+2016.03.03 - version 1.0.3
+* Fix - Avoid calculating the rate if only the country is selected.
+
+2015.02.17 - version 1.0.2
+* Fix - Convert metric to imperial as Google only returns metric values.
+
+2015.02.03 - version 1.0.1
+* Fix - Distance unit only worked in km, now support mi
+
+2014.07.22 - version 1.0.0
+* Initial release

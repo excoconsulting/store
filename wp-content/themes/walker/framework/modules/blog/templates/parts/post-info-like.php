@@ -1,0 +1,1 @@
+<div class="edgtf-blog-like"><?php if( function_exists('walker_edge_get_like') ) walker_edge_get_like(); ?></div>

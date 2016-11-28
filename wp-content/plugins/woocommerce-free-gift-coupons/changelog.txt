@@ -1,0 +1,42 @@
+=== WooCommerce Free Gift Coupons ===
+
+2016.05.09 - version 1.1.0
+* New: WC 2.6 Compatibility: add script to cart page to trigger page reload when coupon added
+* New: WC 2.6 Compatibility: add back-compatibility for legacy Free Shipping method. Please switch to Shipping Zones.
+
+2015.12.08 - version 1.0.9
+* Fix: class $version variable
+* Tweak: Update WordPress tested against 4.4
+* Add: GPL3 license
+
+2015.11.09 - version 1.0.8
+* Fix: don't squash other free shipping coupons
+
+2015.10.13 - version 1.0.7
+* Fix: make free shipping specific to free gift only. To use: Free Shipping must be enabled and set to "requires a valid free shipping coupon" if you don't wish to make the entire order's shipping free
+* New: Add compatibility for adding Subscription as free gift
+
+2015.09.25 - version 1.0.6
+* Fix: allow free shipping with free gift
+
+2015.05.06 - version 1.0.5
+* Tweak: code improvements in coupon options output
+
+2015.02.03 - version 1.0.4
+* WooCommerce 2.3-compatible: switch to Select2
+
+2014.11.12 - version 1.0.3
+* Fix "non-static method WC_Free_Gift_Coupons::add_order_item_meta() should not be called statically"
+
+2014.09.11 - version 1.0.2
+* Fix "Sorry, this product cannot be purchased." bug when adding points discount with Points and Rewards extension
+
+2014.07.05 - version 1.0.1
+* Fix: wc_add_error() to wc_add_notice() 
+* Fix: add variation attributes to cart/order if free gift is variation
+
+2014.05.27 - version 1.0
+* Initial release
+
+2013.10.31 version 1.0 beta
+* Beta release

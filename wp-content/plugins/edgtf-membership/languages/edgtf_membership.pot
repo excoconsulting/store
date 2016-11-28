@@ -1,0 +1,207 @@
+# Copyright (C) 2016 Edge Membership
+# This file is distributed under the same license as the Edge Membership package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Edge Membership 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/edgtf-membership\n"
+"POT-Creation-Date: 2016-04-14 07:54:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: dashboard/dashboard-functions.php:130
+#: dashboard/page-templates/template-parts/profile.php:3
+msgid "Profile"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:134
+#: dashboard/page-templates/template-parts/edit-profile.php:3
+msgid "Edit Profile"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:150 login/wordpress-login.php:13
+#: login/wordpress-login.php:58
+msgid "All fields are empty"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:169
+msgid "Passwords don't match"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:177
+msgid "Error. Please insert valid email"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:188
+msgid "Your profile is updated"
+msgstr ""
+
+#: dashboard/dashboard-functions.php:191
+msgid "You are unauthorized to perform this action."
+msgstr ""
+
+#: dashboard/dashboard-functions.php:195
+msgid "Error."
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:8
+#: dashboard/page-templates/template-parts/profile.php:8
+msgid "First Name"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:13
+#: dashboard/page-templates/template-parts/profile.php:12
+msgid "Last Name"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:18
+#: dashboard/page-templates/template-parts/profile.php:16
+#: shortcodes/register/templates/register-template.php:12
+msgid "Email"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:23
+#: dashboard/page-templates/template-parts/profile.php:24
+msgid "Website"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:27
+msgid "Description"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:32
+#: shortcodes/login/templates/login-template.php:13
+msgid "Password"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:36
+msgid "Repeat Password"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:42
+#: dashboard/page-templates/template-parts/edit-profile.php:50
+msgid "UPDATE PROFILE"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:45
+msgid "UPDATING PROFILE"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/edit-profile.php:46
+msgid "PROFILE UPDATED"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/navigation.php:13
+msgid "Log out"
+msgstr ""
+
+#: dashboard/page-templates/template-parts/profile.php:20
+msgid "Desription"
+msgstr ""
+
+#: dashboard/page-templates/user-dashboard.php:28
+#: widgets/login-widget/login-widget.php:41
+msgid "Login"
+msgstr ""
+
+#: dashboard/page-templates/user-dashboard.php:31
+msgid "Register"
+msgstr ""
+
+#: dashboard/page-templates/user-dashboard.php:34
+msgid "Reset Password"
+msgstr ""
+
+#: login/wordpress-login.php:33
+msgid "Wrong username or password."
+msgstr ""
+
+#: login/wordpress-login.php:41
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: login/wordpress-login.php:73
+msgid "You are successfully registered. Please check your email"
+msgstr ""
+
+#: login/wordpress-login.php:75
+msgid "User already exists"
+msgstr ""
+
+#: login/wordpress-login.php:97
+msgid "We have sent you an email"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:10
+#: shortcodes/register/templates/register-template.php:6
+msgid "User Name"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:10
+#: shortcodes/register/templates/register-template.php:8
+msgid "Three or more characters"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:18
+msgid "Remember me"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:27
+#: shortcodes/login/templates/login-template.php:31
+#: shortcodes/register/templates/register-message.php:3
+#: widgets/login-widget/templates/login-modal-template.php:4
+msgid "LOGIN"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:34
+msgid "Lost Password?"
+msgstr ""
+
+#: shortcodes/login/templates/login-template.php:34
+msgid "Lost Your Password?"
+msgstr ""
+
+#: shortcodes/register/register.php:56
+msgid "You dont have permission to register"
+msgstr ""
+
+#: shortcodes/register/register.php:60
+msgid "You are already logged in"
+msgstr ""
+
+#: shortcodes/register/templates/register-template.php:19
+#: shortcodes/register/templates/register-template.php:23
+#: widgets/login-widget/templates/login-modal-template.php:5
+msgid "REGISTER"
+msgstr ""
+
+#: shortcodes/reset-password/templates/reset-password-template.php:4
+msgid "Enter username or email"
+msgstr ""
+
+#: shortcodes/reset-password/templates/reset-password-template.php:12
+#: shortcodes/reset-password/templates/reset-password-template.php:16
+msgid "NEW PASSWORD"
+msgstr ""
+
+#: widgets/login-widget/login-widget.php:10
+msgid "Login and register, connect with social networks"
+msgstr ""
+
+#: widgets/login-widget/templates/login-widget-template.php:35
+msgid "Log Out"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Edge Membership"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Plugin that adds social login and user dashboard page"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Edge Themes"
+msgstr ""

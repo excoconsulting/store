@@ -1,0 +1,103 @@
+/**
+ * Settings styles
+ *
+ * @autor   WooThemes
+ * @package WC_OD
+ * @since   1.0.0
+ */
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.row {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.row:before, .row:after {
+  content: " ";
+  display: table;
+}
+.row:after {
+  clear: both;
+}
+.row .columns {
+  position: relative;
+  float: left;
+  margin: 10px 0;
+}
+.row .full-column {
+  width: 100%;
+}
+.row .half-column {
+  width: 50%;
+}
+.row .column-wrap {
+  padding: 0 10px;
+}
+
+/* Calendar field */
+.wc-od-calendar-field {
+  max-width: 1040px;
+}
+.wc-od-calendar-field .fc-view-container {
+  background-color: #fff;
+}
+.wc-od-calendar-field .fc-event:hover {
+  cursor: pointer;
+}
+
+/* Event modal */
+.ui-widget-overlay {
+  background: #000 !important;
+}
+
+.wc-od-dialog .ui-dialog-titlebar {
+  padding: .3em 1em;
+  font-size: 13px;
+}
+.wc-od-dialog .ui-dialog-titlebar-close {
+  display: none;
+}
+
+.wp-dialog .ui-dialog-content.event-modal {
+  padding: 10px;
+}
+.wp-dialog .ui-dialog-content.event-modal .column-wrap label {
+  display: block;
+  margin-bottom: 5px;
+}
+.wp-dialog .ui-dialog-content.event-modal .column-wrap input,
+.wp-dialog .ui-dialog-content.event-modal .column-wrap select {
+  width: 100%;
+}
+.wp-dialog .ui-dialog-content.event-modal .column-wrap input[type="submit"] {
+  width: auto;
+}
+.wp-dialog .ui-dialog-content.event-modal .actions .cancel {
+  margin-left: 5px;
+}
+.wp-dialog .ui-dialog-content.event-modal .actions .delete {
+  float: right;
+  margin-top: 4px;
+  color: red;
+}
+
+/* Tooltipster */
+.tooltipster-content .title {
+  margin: 5px 0;
+  text-align: center;
+  color: #fff;
+}
+.tooltipster-content label {
+  font-weight: bold;
+  line-height: 20px;
+}
+.tooltipster-content span {
+  display: block;
+}

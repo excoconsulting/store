@@ -1,0 +1,222 @@
+/* Compatibility */
+
+table.restrictions-form-table {
+	width: 100%;
+}
+
+#restrictions_data .expand_all, #restrictions_data .close_all {
+	float: right;
+	margin-left: 14px;
+	line-height: 22px;
+	text-decoration: none;
+}
+
+#restrictions_data .expand_all:before, #restrictions_data .close_all:before {
+	font-family: WooCommerce;
+	speak: none;
+	font-weight: 400;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	margin-right: .618em;
+	content: "";
+	text-decoration: none;
+	font-size: .8em;
+	color: #999;
+}
+
+.woocommerce_page_wc-settings #restrictions_data .expand_all, .woocommerce_page_wc-settings #restrictions_data .close_all {
+	font-size: 1.1em;
+}
+
+#restrictions_data .expand_all:before {
+	content:"\e035";
+}
+
+#restrictions_data .close_all:before {
+	content:"\e036";
+}
+
+/* Styles */
+
+table.wc_restrictions_overview td.name, table.wc_restrictions_overview th.name {
+	padding: 10px;
+	width: 25%;
+}
+
+table.wc_restrictions_overview td.status, table.wc_restrictions_overview th.status {
+	width: 20%;
+}
+
+table.wc_restrictions_overview td.summary ul {
+	margin: 5px;
+}
+
+table.wc_restrictions_overview td.summary a:before {
+	content: '\e025';
+	font-size: 16px;
+	top: 2px;
+	position: relative;
+	font-family: 'WooCommerce';
+	margin-left: 5px;
+}
+
+table.wc_restrictions_overview td.summary a {
+	visibility: hidden;
+}
+
+table.wc_restrictions_overview td.summary li:hover a {
+	visibility: visible;
+}
+
+#woocommerce-product-data ul.product_data_tabs li.restrictions_tab a:before {
+	content: '\e036';
+	font-family: WooCommerce;
+}
+
+#restrictions_data button.add_restriction {
+	float: left;
+	margin: 0 0 0 6px;
+}
+
+#restrictions_data button.add_condition {
+	margin-right: 10px;
+}
+
+.woocommerce_page_wc-settings #restrictions_data button.add_restriction {
+	font-weight: 700;
+}
+
+#restrictions_data {
+	border-bottom: none;
+}
+
+#restrictions_data select.restriction_type {
+	float: left;
+}
+
+#restrictions_data .help_tip {
+	width: 16px;
+	height: 16px;
+}
+
+#restrictions_data .form-field span.woocommerce-help-tip {
+	vertical-align: text-top;
+}
+
+#restrictions_data .form-field span.woocommerce-help-tip:after {
+	line-height: 18px;
+}
+
+.woocommerce_options_panel .woocommerce_restriction > div p {
+	margin: 0;
+	padding-left: 192px!important;
+	clear: both;
+}
+
+.woocommerce_options_panel .woocommerce_restriction > div div.description {
+	margin: 0 0 15px;
+	display: block;
+}
+
+#restrictions_data table.restriction_conditions {
+	padding: 10px 5px 0px 10px;
+}
+
+#restrictions_data .restriction_conditions .condition_select {
+	width: 150px;
+}
+
+#restrictions_data .condition_content {
+	float: left;
+	padding-left: 20%;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+#restrictions_data .condition_content input {
+	width: 50%;
+	min-width: 100px;
+}
+
+#restrictions_data .condition_content textarea {
+	width: 100%;
+}
+
+#restrictions_data .condition_modifier {
+	margin: 0 0 0 -25%;
+	padding-right: 10px;
+	width: 25%;
+	box-sizing: border-box;
+	float: left;
+}
+
+#restrictions_data .condition_remove {
+	width: 25px;
+	vertical-align: top;
+	text-align: left;
+}
+
+#restrictions_data .condition_row_inner {
+	padding-bottom: 10px;
+}
+
+#restrictions_data span.condition_description {
+	font-style: italic;
+}
+
+.woocommerce_restriction_data {
+	padding: 10px 20px 15px;
+	background: #fff;
+}
+
+#restrictions_data span.description {
+	float:left;
+	font-size: 12px;
+	margin-left: 0;
+}
+
+#restrictions_data .form_row {
+	display: block;
+	clear:both;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	text-align: right;
+}
+
+#restrictions_data .restriction_form_row {
+	width: 80%;
+}
+
+#restrictions_data .form_row {
+	display: block;
+	clear:both;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	text-align: right;
+}
+
+#restrictions_data span.description code {
+	font-size: 12px;
+}
+
+#restrictions_data label {
+	margin: 0 10px 0 -180px;
+	width: 170px;
+}
+
+#restrictions_data textarea {
+	float: left;
+	width: 80%;
+	margin-bottom: 5px;
+}
+
+#restrictions_data.woocommerce_options_panel .chosen-container-multi {
+	width: 80%!important;
+}
+
+#restrictions_data .wc-metaboxes, .toolbar.borderless {
+	border-bottom: none;
+	border-top: none;
+}

@@ -1,0 +1,14 @@
+*** WooCommerce Terms & Conditions Popup Changelog ***
+
+2015.11.11 - version 1.0.3
+ * Tweak: Nicer style for Agree and Decline buttons
+ * Fix: i18n support with initial fr_FR
+
+2015.07.20 - version 1.0.2
+ * Tweak: Adding optional "decline" button
+
+2014.11.18 - version 1.0.1
+ * Fix: Issue with PHP 5.2 displaying empty popups
+
+2014.09.22 - version 1.0
+ * First release!

@@ -1,0 +1,84 @@
+*** Advanced Notifications Changelog ***
+
+2016.08.13 - version 1.2.0
+* Tweak - Added order refund notification.
+* Tweak - Added POT file for translation and missing domain path in plugin's header.
+
+2016.07.23 - version 1.1.20
+* Fix - Variable subscription download links not showing up in new order emails.
+* Fix - Method name typos.
+* Fix - Order note not showing in email template.
+* Add - Notification object to send method so each email will have an ID for context.
+* Add - Email template filter 'woocommerce_order_item_meta_start' and 'woocommerce_order_item_meta_end'.
+
+2016.02.25 - version 1.1.19
+* Fix - Notification emails showing products for other vendors.
+
+2016.01.26 - version 1.1.18
+* Fix - Downloadable files did not generate a link in emails
+
+2015.12.18 - version 1.1.17
+* Fix - Prevent a double footer from showing in emails.
+
+2015.11.17 - version 1.1.16
+* Fix - Incorrect total when trigger is not "All purchases"
+
+2015.11.17 - version 1.1.15
+* Tweak - HTML emails to be consistent with default WooCommerce emails
+
+2015.08.10 - version 1.1.14
+* Added a screen options tab to the notifications listing
+
+2015.07.29 - version 1.1.13
+* 2.4 Compat
+* Fix - Plain text email formatting for the new order notification
+* Tweak - Unify email methods for all notifications
+
+2015.06.03 - version 1.1.12
+* Update main file and text domain.
+
+2015.01.29 - version 1.1.11
+* Fix - Backwards compatibility
+
+2015.01.28 - version 1.1.10
+* New - WC 2.3 compatibility (chosen -> select2)
+* Fix triggers active state
+
+2014.05.15 - version 1.1.9
+* Fix category trigger active state
+
+2014.05.07 - version 1.1.8
+* Fix "all" trigger saving
+
+2014.05.01 - version 1.1.7
+* Revert prev addition; woocommerce_order_status_pending_to_on-hold exists already
+
+2014.04.24 - version 1.1.6
+* Trigger on woocommerce_order_status_pending_to_on-hold_notification hook
+
+2014.01.16 - version 1.1.5
+* 2.1 Compat
+
+2013.11.04 - version 1.1.4
+* Fix global
+
+2013.10.16 - version 1.1.3
+* Fixed issue on save which cleared product notifications
+
+2013.03.26 - version 1.1.2
+* Added woocommerce_email_after_order_table hook
+* Added woocommerce_email_order_meta hook
+
+2012.12.21 - version 1.1.1
+* Relaxed email validation to support quotes
+
+2012.12.21 - version 1.1.0
+* WC 2.0 Compat
+* Fixed sent counts
+* Fixed template overrides
+
+2012.12.04 - version 1.0.1
+* New updater
+
+2012.08.23 - version 1.0.0
+* First release

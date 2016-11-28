@@ -1,0 +1,13 @@
+*** WC Coupon Campaigns ***
+
+2015.12.02 - version 1.0.2
+* Fix - In reports total revenue was not calculated properly
+* Fix - Undefined index in the coupon list
+* Fix - Wrong textdomain names
+* Fix - In reports amounts in the main chart was not formatted with 2 decimals
+
+2015.03.24 - version 1.0.1
+* Fixed reports not being displayed (chosen lib issue)
+
+2014.09.15 - version 1.0
+* First Release

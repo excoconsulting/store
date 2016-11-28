@@ -1,0 +1,15 @@
+/node_modules/
+npm-debug.log
+project.xml
+project.properties
+.DS_Store
+Thumbs.db
+.buildpath
+.project
+.settings*
+
+/logs/*
+
+/vendor/
+
+tests/_output/*

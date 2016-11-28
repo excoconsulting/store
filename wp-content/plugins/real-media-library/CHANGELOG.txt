@@ -1,0 +1,172 @@
+Version 2.6.3
+- Improved some CSS
+- Fixed bug while bulk select and moving files
+- Fixed bug with reopening a media select dialog
+- Fixed bug with Avia / Enfold page builder
+- Fixed bug with reordering the gallery data folder
+- Removed deprecated ressource files
+
+Version 2.6.2 HOTFIX
+- Fixed database tables are not generated, now they are
+- Info: Sorry for alle the troubles!
+
+Version 2.6.1 HOTFIX
+- (developers only) Fixed options bug while accessing other pages
+
+Version 2.6
+- Added full compatibility with WP/LR Lightroom plugin
+- Added minified scripts / styles
+- Added option to apply an order by title, filename, ID to gallery data folders
+- Added option to disable scripts/styles on frontend viewing
+- Added finnish translation (Thanks to Antti!)
+- Fixed Enfold / Avia media picker bug (Thanks to Josh!)
+- Fixed Thickbox bug while logged out
+- Improved load performance
+- Improved the order for gallery data folders
+- (developers only) Added option for folders "restrict"
+- (developers only) Added a minified permission system so 3rd party plugins can restrict folders interactions
+
+Version 2.5.5
+- Fixed capability bug while logged out
+- (developers only) Added Javascript polyfill's to avoid browser incompatibility
+- (developers only) Fixed bug for crashed safari browser
+
+Version 2.5.4
+- Added option to remove advertisement links
+- Fixed "Edit selection" bug while inserting media to post
+
+Version 2.5.3
+- (developers only) Fixed media.comparator bug
+- (developers only) Fixed bugs with Easy Digital Downloads plugin
+- (developers only) Fixed String.prototype problems
+
+Version 2.5.2
+- Added fixed toolbar while scrolling in media library
+- Fixed problems with plugin "Formidable Forms"
+- Fixed resize bug
+- (developers only) Fixed WP query database notices in error log
+- (developers only) Fixed count bug when many folders exist (performed SQL statement)
+- (developers only) Improved API, wp_rml_create() now returns false or a string error array, on success it return an int (ID)
+
+Version 2.5.1
+- HOTFIX shortcode builder [folder-gallery] did not work
+
+Version 2.5
+- Added folder tree to insert media dialog
+- (developers only) Complete recoding of javascript code
+
+Version 2.4.2
+- Fixed TinyMCE bug when not admin
+- Fixed PHP < 5.3 Bug with func_get_args
+- Fixed style issues
+
+Version 2.4.1
+- HOTFIX website is empty because javascript occurs an error
+
+Version 2.4
+- added "Reamining time" and bytes/s in uploader
+- added order mode in galleries
+- added custom fields (meta data) for folders (see inc/api/meta.php)
+- added custom field: cover image + description (not activated as standard, used in JIG)
+- added warning when moving files from "All Files"
+- improved move in table list mode (no page refresh)
+- improved ux styling (uploader, tree, tree in upload media dialog)
+- improved options panel in Settings > Media
+- fixed admin_footer problem when a plugin removes styles and javascript of RML
+- fixed theme preview when plugin is active
+- fixed database queries to avoid long load time on dashboard
+- fixed hidden folder nodes on safari browser
+- fixed usage of front-end editor in BeaverBuilder and Visual Composer
+- fixed bug pre_get_posts
+
+Version 2.3
+- added compatibility with JUSTIFIED IMAGE GRID
+- added resizable container width
+- added option to wipe all settings and releations
+- added spanish translation - by Ana Ayelén Martínez. http://caribdisweb.com/
+- (developers only) added "slug" and "absolute" to database table
+- (developers only) added / updated api
+- fixed edit mode when creating a new folder
+- fixed default order in folder gallery
+- fixed UX bugs (draggable, droppable, sortable)
+- fixed sticky sidebar
+
+Version 2.2.3
+- added Finnish translation (thanks to palvelu)
+- added more attractive alerts and prompt windows
+- fixed visual bugs
+- fixed delete bug => when folder is deleted, switch view to root
+- fixed upload percentage issue
+- fixed live update of folder count
+- fixed upload in "Insert media" dialog => file is now in correct folder
+- fixed drag and drop experience
+- moved folder gallery button above visual editor into visual editor
+- (developers only) added more actions and filters
+- (developers only) added javascript actions (window.rml.hooks)
+- (developers only) changed javascript function names
+- (developers only) changed localize javascript variables
+
+Version 2.2.2
+- HOT bugfix error in creating a folder gallery
+
+Version 2.2.1
+- added filters and actions (developers)
+- added three more api functions (developers)
+- added facebook advert on plugin activation
+- restyled upload window
+- font awesome fix
+
+Version 2.2
+- fixed AJAX bug
+- fixed conditional tag to create / sort items
+- fixed count bug (WPML)
+- fixed duplicate name
+- added sticky container when scrolling
+- added collection and galleries folder types
+- added collapsable folders
+- added API functions (look inc/api/)
+- added left infos about folder structure
+- added option to hide upload preview (for slow loading pc's)
+- outsourced javascript functions
+- PHP Code rewritten (better split in view and structure)
+- PHP Code documentation improved
+
+Version 2.1.2
+- added french translation (thanks to Youpain)
+- fixed rename bug
+- fixed count bug when WPML in usage
+
+Version 2.1.1
+- removed unnecessary code
+- fixed jquery conflict
+
+Version 2.1
+- add multisite compatibility
+- correct sorting (not alphabetic)
+
+Version 2.0
+- support PHP version < 5.4
+- version milestone - Thanks for purchasing! :)
+
+Version 1.3
+- added nice uploading to folder
+
+Version 1.2
+- works now with RevSlider >= 5.0
+- body class fix for grid mode (added Javascript methode)
+- added notice about is alphabetic sorting
+
+Version 1.1
+- pre_get_posts appending meta_query fixed
+- pre_get_posts capability added
+- moving in list table fixed
+- style fix (drag and drop helper)
+- limit of folder gallery images removed
+
+Version 1.0.1
+- rename without window reload
+- delete without window reload
+- fixed https:// resources
+
+Version 1.0
+- Initial Release

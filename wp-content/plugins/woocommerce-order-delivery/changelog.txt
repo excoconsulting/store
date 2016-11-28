@@ -1,0 +1,12 @@
+*** WooCommerce Order Delivery Changelog ***
+
+2016.06.28 - version 1.0.2
+ * Tweak - Added WooCommerce 2.6 compatibility.
+ * Fix - Fixed datepicker styles for the themes: Storefront 2.0, Twenty Fifteen 1.5 and Twenty Sixteen 1.2.
+ * Fix - Fixed typo when calling the 'woocommerce_email_subject_customer_processing_order' in the WC_OD_Order_Details class.
+
+2015.12.14 - version 1.0.1
+ * Fix - Added required field validation in the checkout form.
+
+2015.06.04 - version 1.0.0
+ * Initial Release! Woo!

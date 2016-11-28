@@ -1,0 +1,246 @@
+# Translation of WooCommerce - Checkout Field Editor in Portuguese (Brazil)
+# This file is distributed under the same license as the WooCommerce - Checkout Field Editor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-04 21:45:04+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.2.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: WooCommerce - Checkout Field Editor\n"
+
+#. Description of the plugin/theme
+msgid "Add, remove and modifiy fields shown on your WooCommerce checkout page."
+msgstr "Adicione, exclua ou modifique os campos mostrados no página de compras do seu WooCommerce."
+
+#: classes/class-wc-checkout-field-editor.php:603
+msgid "Your changes were not saved due to an error (or you made none!)."
+msgstr "Suas alterações não foram salvas devido a um erro (ou não há alterações)."
+
+#: classes/class-wc-checkout-field-editor.php:601
+msgid "Your changes were saved."
+msgstr "Suas alterações foram salvas."
+
+#: classes/class-wc-checkout-field-editor.php:469
+msgctxt "placeholder"
+msgid "Notes about your order, e.g. special notes for delivery."
+msgstr "Observações sobre seu pedido, por exemplo observações especiais para entrega."
+
+#: classes/class-wc-checkout-field-editor.php:468
+msgid "Order Notes"
+msgstr "Observações do pedido"
+
+#: classes/class-wc-checkout-field-editor.php:444
+msgid "Save Changes"
+msgstr "Guardar Alterações"
+
+#: classes/class-wc-checkout-field-editor.php:354
+msgid "This field cannot be modified."
+msgstr "Este campo não pode ser modificado."
+
+#: classes/class-wc-checkout-field-editor.php:352
+#: classes/class-wc-checkout-field-editor.php:373
+#: classes/class-wc-checkout-field-editor.php:389
+msgid "This field is address locale dependent and cannot be modified."
+msgstr "Este campo é dependente do local do endereço e não pode ser modificado."
+
+#: classes/class-wc-checkout-field-editor.php:261
+#: classes/class-wc-checkout-field-editor.php:392
+msgid "Pipe (|) separate options."
+msgstr "Opções separadas por barra vertical (|)."
+
+#: classes/class-wc-checkout-field-editor.php:233
+msgid "The fields above show beneath the billing and shipping sections on the checkout page."
+msgstr "Os campos acima são mostrados abaixo das seções Cobrança e Envio na página de compras."
+
+#: classes/class-wc-checkout-field-editor.php:230
+msgid "The fields above show in the \"shipping information\" section of the checkout page. <strong>Disabling core fields can cause unexpected results with some plugins; we recommend against this if possible.</strong>"
+msgstr "Os campos acima são mostrados na seção “Informações de Envio” da página de compras. <strong>Desabilitar campos principais pode causar resultados inesperados com alguns plugins. Recomendamos não fazer isso, se possível.</strong>"
+
+#: classes/class-wc-checkout-field-editor.php:227
+msgid "The fields above show in the \"billing information\" section of the checkout page. <strong>Disabling core fields can cause unexpected results with some plugins; we recommend against this if possible.</strong>"
+msgstr "Os campos acima são mostrados na seção “Informações de Cobrança” da página de compras. <strong>Desabilitar campos principais pode causar resultados inesperados com alguns plugins. Recomendamos não fazer isso, se possível.</strong>"
+
+#: classes/class-wc-checkout-field-editor.php:222
+msgid "Disable/Remove Checked"
+msgstr "Desativar/remover verificação"
+
+#: classes/class-wc-checkout-field-editor.php:221
+msgid "Enable Checked"
+msgstr "Ativar verificação"
+
+#: classes/class-wc-checkout-field-editor.php:220
+msgid "+ Add field"
+msgstr "+ Adicionar campo"
+
+#: classes/class-wc-checkout-field-editor.php:214
+msgid "Display Options"
+msgstr "Opções de exibição"
+
+#: classes/class-wc-checkout-field-editor.php:213
+msgid "Validation Rules"
+msgstr "Regras de validação"
+
+#: classes/class-wc-checkout-field-editor.php:212
+msgid "Clear Row"
+msgstr "Limpar linha"
+
+#: classes/class-wc-checkout-field-editor.php:211
+msgid "Position"
+msgstr "Posição"
+
+#: classes/class-wc-checkout-field-editor.php:210
+msgid "Placeholder / Option Values"
+msgstr "Placeholder/Opção Valores"
+
+#: classes/class-wc-checkout-field-editor.php:209
+msgid "Label"
+msgstr "Rótulo"
+
+#: classes/class-wc-checkout-field-editor.php:208
+msgid "Type"
+msgstr "Tipo"
+
+#: classes/class-wc-checkout-field-editor.php:207
+msgid "Name"
+msgstr "Nome"
+
+#: classes/class-wc-checkout-field-editor.php:198
+msgid "Order Detail Pages"
+msgstr "Páginas de detalhes do pedido"
+
+#: classes/class-wc-checkout-field-editor.php:197
+msgid "Emails"
+msgstr "Emails"
+
+#: classes/class-wc-checkout-field-editor.php:193
+msgid "Right"
+msgstr "Direita"
+
+#: classes/class-wc-checkout-field-editor.php:192
+msgid "Full-width"
+msgstr "Largura total"
+
+#: classes/class-wc-checkout-field-editor.php:191
+msgid "Left"
+msgstr "Esquerda"
+
+#: classes/class-wc-checkout-field-editor.php:187
+msgid "Heading"
+msgstr "Cabeçalho"
+
+#: classes/class-wc-checkout-field-editor.php:186
+msgid "Date Picker"
+msgstr "Seletor de datas"
+
+#: classes/class-wc-checkout-field-editor.php:185
+msgid "Checkbox"
+msgstr "Caixa de Seleção"
+
+#: classes/class-wc-checkout-field-editor.php:184
+msgid "Radio"
+msgstr "Rádio"
+
+#: classes/class-wc-checkout-field-editor.php:183
+msgid "Multiselect"
+msgstr "Selecionar vários"
+
+#: classes/class-wc-checkout-field-editor.php:180
+msgid "Select"
+msgstr "Selecionar"
+
+#: classes/class-wc-checkout-field-editor.php:179
+msgid "Textarea"
+msgstr "Área de texto"
+
+#: classes/class-wc-checkout-field-editor.php:178
+msgid "Password"
+msgstr "Senha"
+
+#: classes/class-wc-checkout-field-editor.php:177
+msgid "Text"
+msgstr "Texto"
+
+#: classes/class-wc-checkout-field-editor.php:173
+msgid "Number"
+msgstr "Número"
+
+#: classes/class-wc-checkout-field-editor.php:172
+msgid "Email"
+msgstr "E-mail"
+
+#: classes/class-wc-checkout-field-editor.php:171
+msgid "Required"
+msgstr "exigido"
+
+#: classes/class-wc-checkout-field-editor.php:154
+msgid "Fields"
+msgstr "Campos"
+
+#: classes/class-wc-checkout-field-editor.php:132
+msgid "Checkout fields successfully reset"
+msgstr "Campos de compra redefinidos com sucesso"
+
+#: classes/class-wc-checkout-field-editor.php:111
+msgid "This tool will remove all customizations made to the checkout fields using the checkout field editor."
+msgstr "Esta ferramenta remove todas as personalizações feitas nos campos de compra usando o editor de campo de compra."
+
+#: classes/class-wc-checkout-field-editor.php:110
+msgid "Reset Checkout Fields"
+msgstr "Redefinir campos de compra"
+
+#: classes/class-wc-checkout-field-editor.php:93
+msgid "Dismiss"
+msgstr "Dispensar"
+
+#: classes/class-wc-checkout-field-editor.php:93
+msgid "Documentation"
+msgstr "Documentação"
+
+#: classes/class-wc-checkout-field-editor.php:92
+msgid "<strong>Checkout field editor is ready</strong> &#8211; Customise your forms below :)"
+msgstr "<strong>O editor de campo de compra está pronto</strong>. Personalize os formulários abaixo :)"
+
+#: classes/class-wc-checkout-field-editor.php:47
+#: classes/class-wc-checkout-field-editor.php:109
+msgid "Checkout Fields"
+msgstr "Campos de compra"
+
+#: checkout-field-editor.php:422
+msgid "(%s) is not a valid email address."
+msgstr "(%s) não é um endereço de email válido."
+
+#: checkout-field-editor.php:410 checkout-field-editor.php:412
+msgid "(%s) is not a valid number."
+msgstr "(%s) não é um número válido."
+
+#: checkout-field-editor.php:359
+msgid "Select some options"
+msgstr "Selecione algumas opções"
+
+#: checkout-field-editor.php:262 checkout-field-editor.php:301
+#: checkout-field-editor.php:337
+msgid "required"
+msgstr "exigido"
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com"
+msgstr "http://woothemes.com"
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr "WooThemes"
+
+#. Plugin URI of the plugin/theme
+msgid "http://woothemes.com/woocommerce/"
+msgstr "http://woothemes.com/woocommerce/"
+
+#: classes/class-wc-checkout-field-editor.php:61
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Checkout Field Editor"
+msgstr "Editor de campo de compra do WooCommerce"

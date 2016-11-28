@@ -1,0 +1,147 @@
+# Copyright (C) 2016 WooThemes / SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce URL Coupons 2.3.1\n"
+"Report-Msgid-Bugs-To: https://support.woothemes.com/hc/\n"
+"POT-Creation-Date: 2014-06-15 22:41:30+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/admin/class-wc-url-coupons-admin.php:89
+#: includes/admin/class-wc-url-coupons-admin.php:568
+msgid "Unique URL"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:90
+msgid ""
+"The URL that a customer can visit to have this coupon / product added to "
+"their cart."
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:99
+#: includes/admin/class-wc-url-coupons-admin.php:569
+msgid "Products to Add to Cart"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:101
+msgid "Search for a product&hellip;"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:123
+msgid "Add these products to the customers cart when they visit the URL."
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:156
+#: includes/admin/class-wc-url-coupons-admin.php:570
+msgid "Page Redirect"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:166
+msgid "Select a page to redirect to&hellip;"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:172
+msgid ""
+"Select the page the customer will be redirected to after visiting the URL. "
+"Leave blank to disable redirect."
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:191
+#: includes/admin/class-wc-url-coupons-admin.php:571
+msgid "Defer Apply"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:192
+msgid ""
+"Check this box to defer applying the coupon until the customer's cart meets "
+"the coupon's requirements."
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:297
+msgid "Homepage"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:349
+msgid "Pages"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:350
+msgid "Products"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:351
+msgid "Categories"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:352
+msgid "Tags"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:353
+msgid "Product Categories"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:354
+msgid "Product Tags"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:533
+msgid "Hide Coupon Code Field"
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:534
+msgid "Hide on cart page."
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:535
+msgid "Enable to hide the coupon code field on the cart page."
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:543
+msgid "Hide on checkout page."
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:544
+msgid "Enable to hide the coupon code field on the checkout page."
+msgstr ""
+
+#: includes/admin/class-wc-url-coupons-admin.php:587
+msgid "URL Slug"
+msgstr ""
+
+#: includes/frontend/class-wc-url-coupons-frontend.php:209
+#. translators: Placeholders: %s - error message
+msgid "Coupon added but not yet applied: <br /> %s"
+msgstr ""
+
+#: includes/frontend/class-wc-url-coupons-frontend.php:212
+#. translators: Placeholders: %s - error message
+msgid "Coupon already added but not yet applied: <br /> %s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce URL Coupons"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woothemes.com/products/url-coupons/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Create a unique URL that applies a discount and optionally adds one or more "
+"products to the customer's cart."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes / SkyVerge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.woothemes.com"
+msgstr ""

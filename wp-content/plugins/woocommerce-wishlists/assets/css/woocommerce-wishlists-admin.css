@@ -1,0 +1,21 @@
+#icon-woocommerce.icon32-posts-wishlist {
+    background-image:url('../images/wishlist-settings-icon.png') !important;
+    background-position: 2px 2px !important;
+    background-size: 30px 30px !important;
+}
+
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+	#icon-woocommerce.icon32-posts-wishlist {
+	    background-image:url('../images/wishlist-settings-icon@2x.png') !important;
+	}
+}
+
+.add-new-h2, .page-title-action{
+	display: none !important;
+}
+
+#edit-slug-box {
+	display:none !important;
+}

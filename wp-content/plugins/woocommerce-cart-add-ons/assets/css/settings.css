@@ -1,0 +1,26 @@
+.widefat th, .widefat td  {overflow:inherit !important;}
+
+#cat_tbody tr td span.priority, #product_tbody tr td span.priority {
+    display: inline;
+    padding: 4px 7px;
+    background: #EAF2FA;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+
+.fue_table_footer {
+    position: relative;
+    overflow: hidden;
+    padding: 8px;
+    background: #EAF2FA;
+    border: #c7d7e2 solid 1px;
+    border-top:0 none;
+}
+
+.fue_table_footer .order_message {
+    background: url(../../drag_and_drop_to_reorder.png);
+    width: 161px;
+    height: 23px;
+    float: left;
+    margin-left: 20px;
+}

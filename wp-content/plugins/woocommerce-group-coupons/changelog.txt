@@ -1,0 +1,31 @@
+*** WooCommerce Group Coupons ***
+
+2015.03.03 - version 1.5.0
+* Adjusted role select rendering for new select mechanism.
+* Fixed multiple messages appearing when coupons are applied.
+* WooCommerce 2.3.x compatible
+
+2014.09.04 - version 1.4.0
+* WC 2.2.0 and WP 4.0 compatibility revision.
+* Moved Groups and Roles coupon administrative sections to their own panels.
+
+2014.01.20 - version 1.3.1
+* Dependencies class updated.
+* Guarded against woocommerce_coupon_options action invoked during save.
+
+2013.11.20 - version 1.3.0
+* Added support for subscription coupon types (group_coupons shortcode)
+* Fixed PHP notice due to typo in variable name
+
+2013.06.11 - version 1.2.0
+* Added : show discount type in coupon
+* Improved : CSS
+* Changed : chosen() for roles
+
+2013.05.22 - version 1.1.0
+* Added support for roles
+* Added option to remove coupons on logout
+* Added languages folder for translations and trying to load text domain
+
+2013.05.17 - version 1.0.0
+* Initial release

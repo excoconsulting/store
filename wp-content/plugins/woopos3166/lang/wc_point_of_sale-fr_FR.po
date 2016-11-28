@@ -1,0 +1,999 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Point of Sale v2.42\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-29 19:30+0100\n"
+"PO-Revision-Date: Mon Sep 19 2016 22:44:12 GMT+0200 (CEST)\n"
+"Last-Translator: admin <admin@simplementbelle.fr>\n"
+"Language-Team: NADEIS <contact@nadeis.fr>\n"
+"Language: French (France)\n"
+"Plural-Forms: nplurals=2; plural=n > 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Target-Locale: fr_FR"
+
+msgid "%s by %s"
+msgstr "%s par %s"
+
+msgid "<span class=\"order-type tips\" data-tip=\"Order Type\">Order Type</span>"
+msgstr "<span class=\"order-type tips\" data-tip=\"Order Type\"> Type de Commande</span>"
+
+msgid "<span class=\"order-type-pos tips\" data-tip=\"Point of Sale Order\">pos<span>"
+msgstr ""
+"<span class=\"order-type-pos tips\" data-tip=\"Commande de Point de "
+"Vente\">pos<span>"
+
+msgid "<span class=\"order-type-web tips\" data-tip=\"Website Order\">web<span>"
+msgstr "<span class=\"order-type-web tips\" data-tip=\"Commande Site Internet\">web<span>"
+
+msgid ""
+"<strong>Connection lost.</strong> Saving has been disabled until you&#8217;"
+"re reconnected."
+msgstr ""
+"<strong>Connection perdue.</strong> Les sauvegardes sont désactivées jusqu'à "
+"votre reconnection."
+
+msgid "Accept Payment"
+msgstr "Accepter le Paiement"
+
+msgid "Access"
+msgstr "Accès"
+
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Echec. Merci de rafraichir la page et réessayer."
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Add A Note"
+msgstr "Ajouter une note"
+
+msgid "Add Customer"
+msgstr "Ajouter un Client"
+
+msgid "Add Discount"
+msgstr "Ajouter Remise"
+
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+msgid "Add New Outlet"
+msgstr "Ajouter un nouveau magasin"
+
+msgid "Add New Product Grid"
+msgstr "Ajouter une nouvelle grile de produits"
+
+msgid "Add New Product Grid "
+msgstr "Ajouter une nouvelle grille de produits"
+
+msgid "Add New Receipt Template"
+msgstr "Ajouter une nouveau modèle de reçu"
+
+msgid "Add New Register"
+msgstr "Ajouter nouveau Caissier"
+
+msgid "Add New Tile"
+msgstr "Ajouter nouvelle vignette"
+
+msgid "Add Product Grid"
+msgstr "Ajouter produits à la grille"
+
+msgid "Add to %s"
+msgstr "Ajouter à %s"
+
+msgid "All"
+msgstr "Tous  "
+
+msgid "All Registers"
+msgstr "Tous les caissiers"
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "Apply Discount"
+msgstr "Appliquer Remise"
+
+msgid "Are you sure you want to clear all fields and start from scratch?"
+msgstr "Etes vous sûr de vouloir effacer tous les champs et repartir du début?"
+
+msgid "Are you sure you want to delete this grid?"
+msgstr "Etes-vous sûr de supprimer cette grille?"
+
+msgid "Are you sure you want to remove the selected items?"
+msgstr "Etes-vous sûr de supprimer les objets séléctionnés?"
+
+msgid "Background Color"
+msgstr "Couleur de fond de page"
+
+msgid "Barcode"
+msgstr "Code-barres"
+
+msgid "Barcode Preview"
+msgstr "Prévisualisation du code-barres"
+
+msgid "Barcode Template created."
+msgstr "Modèle de code-barres créé"
+
+msgid "Barcode Template updated."
+msgstr "Modèle de code-barres mis à jour"
+
+msgid "Billing Details"
+msgstr "Détails de la facturation"
+
+msgid "Calculate Tax Based On"
+msgstr "Taxe calculée sur la base de "
+
+msgid "Category"
+msgstr "Catégorie:"
+
+msgid "Change"
+msgstr "Changer"
+
+msgid "Change User"
+msgstr "Changer d'utilisateur"
+
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors on triche ?"
+
+msgid ""
+"Choose whether to show or hide the WordPress admin bar when the Registers "
+"are open."
+msgstr ""
+"Choisir d'afficher ou pas la barre d'administration du site quand les "
+"caisses sont ouvertes."
+
+msgid "Choose which fields to print"
+msgstr "Choisir les champs à imprimer"
+
+msgid "Closed"
+msgstr "Fermé"
+
+msgid "Closed:"
+msgstr "Fermé:"
+
+msgid "Colour"
+msgstr "Couleur"
+
+msgid "Company Image"
+msgstr "Image de l'entreprise"
+
+msgid "Company Image + Text"
+msgstr "Image de l'entreprise + Texte"
+
+msgid "Company Logo"
+msgstr "Logo de l'entreprise"
+
+msgid "Configure Tiles"
+msgstr "Configurer les vignettes"
+
+msgid "Contact & Social Details"
+msgstr "Détails contacts & sociaux"
+
+msgid "Contact Details"
+msgstr "Détails du contact"
+
+msgid "Continuous Feed"
+msgstr "Flux Continu"
+
+msgid "Create an account?"
+msgstr "Créer votre compte ?"
+
+msgid "Customer Message"
+msgstr "Message clients"
+
+msgid "Customer Name"
+msgstr "Nom du client"
+
+msgid "Customer billing address"
+msgstr "Adresse de facturation du client"
+
+msgid "Customer shipping address"
+msgstr "Adresse de livraison du client"
+
+msgid "Dafault Selection"
+msgstr "Séléction par défaut"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Default WooCommerce"
+msgstr "Défaut WooCommerce"
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgid "Discount"
+msgstr "Remise"
+
+msgid "Discount Presets"
+msgstr "Présélection des remises"
+
+msgid "Display Name"
+msgstr "Afficher le nom"
+
+msgid "Edit Outlet"
+msgstr "Modifier magasin"
+
+msgid "Edit Product Grid"
+msgstr "Editer grille de produits"
+
+msgid "Edit Receipt Template"
+msgstr "Editer modèle de reçu"
+
+msgid "Edit Register"
+msgstr "Modifier caissier"
+
+msgid "Edit Tile"
+msgstr "Modifier vignette"
+
+msgid "Email"
+msgstr "Courriel"
+
+msgid "Email Label"
+msgstr "Etiquette de courriel"
+
+msgid "Email Receipt"
+msgstr "E-mail reçu"
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Enabled (using WooCommerce configurations)"
+msgstr "Activé (utilisant les configurations de WooCommerce)"
+
+msgid "End Of Sale"
+msgstr "Fin de Vente"
+
+msgid "Ensure the user is logged out before changing the outlet."
+msgstr "S'assurer que l'utilisateur soit déconnecté avant de changer de magasin."
+
+msgid "Enter"
+msgstr "Entrer"
+
+msgid ""
+"Enter the contact details of the outlet as this will appear on receipts that "
+"are printed from registers at this outlet."
+msgstr ""
+"Entrez le détail du contact du magasin qui apparaitra sur les reçus qui "
+"seront imprimés depuis la caisse virtuelle"
+
+msgid "Enter the prefix of the orders from this register."
+msgstr "Entrez le préfixe des commandes de ce caissier."
+
+msgid ""
+"Enter the social details of the outlet as this will appear on receipts that "
+"are printed from registers at this outlet."
+msgstr ""
+"Entrez les détails de contact du magasin qui apparaitra sur les reçus qui "
+"seront imprimés depuis la caisse virtuelle."
+
+msgid "Enter the suffix of the orders from this register."
+msgstr "Entrez le suffixe des commandes de ce caissier."
+
+msgid "Fax"
+msgstr "Numéro de FAX"
+
+msgid "Fax Label"
+msgstr "Etiquette fax"
+
+msgid "Footer Text"
+msgstr "Texte de pied de page"
+
+msgid "Gateway"
+msgstr "Passerelle"
+
+msgid "General"
+msgstr "Général"
+
+msgid "General Details"
+msgstr "Détails généraux"
+
+msgid "General Options"
+msgstr "Options Générales"
+
+msgid ""
+"Good news, the tax configuration of WooCommerce is set up, you can use "
+"automated tax calculation for the POS system."
+msgstr ""
+"Bonne nouvelle; La configuration du calcul de la valeur de taxe est réglée "
+"dans les paramètres de WooCommerce. Vous pouvez utiliser le calcul "
+"automatique de taxe pour le système de point de vente."
+
+msgid "Grid Preview "
+msgstr "Prévisualisation de la Grille"
+
+msgid "Guest"
+msgstr "Anonyme"
+
+msgid "Header Text"
+msgstr "Texte d'Entête"
+
+msgid "Hide"
+msgstr "Cacher"
+
+msgid "If you take over, %s will be blocked from continuing to edit."
+msgstr ""
+"Si vous souhaitez vous en occuper, %s sera bloqué et ne pourra pas terminer "
+"sa modification."
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Label Type"
+msgstr "Type d'Etiquettes"
+
+msgid "Last Login"
+msgstr "Dernière connexion"
+
+msgid "Layout"
+msgstr "Masque"
+
+msgid "Layouts"
+msgstr "Masques"
+
+msgid "Letter"
+msgstr "Lettre"
+
+msgid "Load"
+msgstr "Charger"
+
+msgid "Load Order"
+msgstr "Charger Commande"
+
+msgid "Loading..."
+msgstr "Chargement ..."
+
+msgid "Logged In"
+msgstr "Connecté en tant que "
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Name for the grid (shown on the front-end)."
+msgstr "Nom de la Grille (affichée en Caisse)"
+
+msgid "Name for the grid (shown when configuring and viewing the register)"
+msgstr "Nom de la grille (affiché quand vous configurez ou modifiez le caissier)"
+
+msgid "New register added."
+msgstr "Nouveau Caissier Ajouté"
+
+msgid "Next"
+msgstr "Prochain"
+
+msgid "No Default Selection"
+msgstr "Pas de séléction par défaut"
+
+msgid "No Product Grids currently exist."
+msgstr "La grille de produits n'existe pas"
+
+msgid "No Shipping"
+msgstr "Pas de livraison"
+
+msgid "No default"
+msgstr "Aucun défaut"
+
+msgid "Note"
+msgstr "Note"
+
+msgid "Note Request"
+msgstr "Requête Note"
+
+msgid "Notes"
+msgstr "Notes"
+
+msgid "Number of Items"
+msgstr "Nombre d'Objets"
+
+msgid "Number of Items Label"
+msgstr "Etiquette du Nombre d'Objets"
+
+msgid "Number of Labels"
+msgstr "Nombres d'étiquettes"
+
+msgid "Online"
+msgstr "En ligne"
+
+msgid "Open"
+msgstr "Ouvrir"
+
+msgid "Opened:"
+msgstr "Ouvert:"
+
+msgid "Order"
+msgstr "Commande"
+
+msgid "Order &ndash; %s"
+msgstr "Commande &ndash; %s"
+
+msgid "Order Date"
+msgstr "Date de commande"
+
+msgid "Order Date Label"
+msgstr "Etiquette du numéro de commande"
+
+msgid "Order Notes"
+msgstr "Notes de la commande"
+
+msgid "Order Number"
+msgstr "Numéro de commande"
+
+msgid "Order Number Label"
+msgstr "Etiquette du numéro de commande"
+
+msgctxt "Order date parsed by strftime"
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr "%b %d, %Y @ %I:%M %p"
+
+msgid "Orders"
+msgstr "Commandes"
+
+msgid "Outlet"
+msgstr "Magasin"
+
+msgid "Outlet Details"
+msgstr "Détails du magasin"
+
+msgid "Outlet added."
+msgstr "Magasin ajoutée"
+
+msgid "Outlet address"
+msgstr "Adresse du magasin"
+
+msgid "Outlet deleted."
+msgstr "Magasiin supprimé"
+
+msgid "Outlet name:"
+msgstr "Nom du magasin:"
+
+msgid "Outlet updated."
+msgstr "Magasin mis à jour."
+
+msgid "Outlets"
+msgstr "Magasin"
+
+msgid ""
+"Outlets for your store can be managed here. Outlets can be added using the "
+"form below. To edit an outlet, simply hover over the outlet and click on "
+"Edit."
+msgstr ""
+"Magasins pour votre boutique sont gérés ici. Les magasins peuvent être "
+"ajoutés en utilisant le formulaire ci-dessous. Pour modifier une boutique, "
+"glisser simplement le pointeur de souris et cliquer sur Edit ou Modifier"
+
+msgid "Outlets not found. Try to adjust the filter."
+msgstr "Magasins introuvables. Essayez d'ajuster le filtre."
+
+msgid "POS"
+msgstr "PDV"
+
+msgid "Pay"
+msgstr "Payer"
+
+msgid "Payment Gateways"
+msgstr "Passerelles de Paiement"
+
+msgid "Payment Label"
+msgstr "Etiquette de paiement"
+
+msgid "Payment Methods"
+msgstr "Méthode de paiement"
+
+msgid "Payments"
+msgstr "Paiements"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Please add products."
+msgstr "Merci d'ajouter des produits."
+
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+"Veuillez poursuivre votre commande et saisir votre adresse complète pour "
+"voir s'il y a des méthodes de livraison disponibles."
+
+msgid "Please select category."
+msgstr "Sélectionnez la catégorie s'il vous plait."
+
+msgid "Please select product."
+msgstr "Sélectionnez un produit s'il vous plait."
+
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+"Veuillez utiliser le calculateur de frais de port pour voir les méthodes de "
+"livraison disponibles."
+
+msgid "Please, provide an grid name, slug and type."
+msgstr "Déterminez un nom de grille, attribut et type s'il vous plait."
+
+msgid "Point Of Sale"
+msgstr "Point de vente"
+
+msgid "Point of Sale"
+msgstr "Point de vente"
+
+msgid "Prefix"
+msgstr "Préfixe"
+
+msgid "Preview"
+msgstr "Prévisualisation"
+
+msgid "Previous"
+msgstr "Précedent"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Print Number of Items"
+msgstr "Imprimer le Nombre d'Objets"
+
+msgid "Print Order Barcode"
+msgstr "Imprimer le code-barres de commande"
+
+msgid "Print Outlet Address"
+msgstr "Imprimer adresse point de vente"
+
+msgid "Print Outlet Contact Details"
+msgstr "Imprimer détails du contact du Point de Vente"
+
+msgid "Print Receipt"
+msgstr "Imprimer reçu"
+
+msgid "Print Server"
+msgstr "Serveur d'impression"
+
+msgid "Print Tax Number"
+msgstr "Imprimer la valeur de Taxe"
+
+msgid "Product"
+msgstr "Produit"
+
+msgid "Product Grid"
+msgstr "Grille produit"
+
+msgid "Product Grids"
+msgstr "Grille de produits"
+
+msgid "Product ID:"
+msgstr "ID produits"
+
+msgid "Product Name"
+msgstr "Nom du produit"
+
+msgid "Product SKU:"
+msgstr "UGS du Produit:"
+
+msgid ""
+"Product grids lets you define the products that you want to show on each "
+"register. Using tiles which represent a produce, you can customise the "
+"product grid layout."
+msgstr ""
+"Grilles de produits vous permet de définir les produits que vous voulez "
+"afficher pour chaque caissier. En utilisant les vignettes qui représentent "
+"chaque produit, vous pouvez ainsi paramétrer votre caisse selon vos envies "
+"ou besoins."
+
+msgid "Purchased"
+msgstr "Acheté"
+
+msgid "Qty"
+msgstr "Qté"
+
+msgid "Receipt"
+msgstr "Reçus"
+
+msgid "Receipt Logo"
+msgstr "Logo du reçu"
+
+msgid "Receipt Name"
+msgstr "Nom du reçu"
+
+msgid "Receipt Template"
+msgstr "Modèle de reçu"
+
+msgid "Receipt Template created."
+msgstr "Modèle de reçu créé"
+
+msgid "Receipt Template deleted."
+msgstr "Modèle du reçu effacé"
+
+msgid "Receipt Template updated."
+msgstr "Modèle du reçu mis à jour"
+
+msgid "Receipt Templates"
+msgstr "Modèles de Reçu"
+
+msgid "Receipt Title"
+msgstr "Titre du reçu"
+
+msgid "Receipts"
+msgstr "Reçus"
+
+msgid "Receipts not found. Try to adjust the filter."
+msgstr "Reçus introuvables. Essayer d'ajuster le filtre"
+
+msgid "Register"
+msgstr "Caissier"
+
+msgid "Register Details"
+msgstr "Details du caissier"
+
+msgid "Register Layout"
+msgstr "Masque de la caisse"
+
+msgid "Register deleted."
+msgstr "Caissier supprimé"
+
+msgid "Register name:"
+msgstr "Nom du caissier"
+
+msgid "Register updated."
+msgstr "Caissier mis à jour"
+
+msgid "Registers"
+msgstr "Enregistrements"
+
+msgid ""
+"Registers for your store can be managed here. Registers can be added using "
+"the form below. To edit an register, simply hover over the register and "
+"click on Edit."
+msgstr ""
+"Les caissiers de votre magasin peuvent être gérés ici. Ils peuvent être "
+"ajoutés en utilisant le formulaire suivant. Pour modifier une caisse, "
+"présenter votre souris sur le nom et cliquez sur Edit."
+
+msgid "Registers not found. Try to adjust the filter."
+msgstr "Caissiers introuvables. Essayez d'ajuster le filtre."
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "Remove Receipt Logo"
+msgstr "Effacer le logo du reçu"
+
+msgid "Report"
+msgstr "Rapport de caisse"
+
+msgid "Reprint receipts"
+msgstr "Ré-imprimer les reçus"
+
+msgid "Retrieve Sales"
+msgstr "Retrouver les ventes"
+
+msgid "SKU"
+msgstr "UGS :"
+
+msgid "Sales"
+msgstr "Ventes"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Save Order"
+msgstr "Enregistrer commande"
+
+msgid "Save changes"
+msgstr "Enregistrer les changements"
+
+msgid "Search Outlets"
+msgstr "Rechercher magasins"
+
+msgid "Search Registers"
+msgstr "Rechercher  caissiers"
+
+msgid "Search for a product&hellip;"
+msgstr "Rechercher un produit&hellip;"
+
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Résultat de la Recherche pour  &#8220;%s&#8221;"
+
+msgid "Select a country…"
+msgstr "Séléctionner un pays"
+
+msgid "Select a state…"
+msgstr "Selctionner un état"
+
+msgid "Select category"
+msgstr "Séléction de la catégorie"
+
+msgid "Select the background colour for this tile."
+msgstr "Séléctionner une couleur de fond pour cette vignette."
+
+msgid "Select the layout for the register."
+msgstr "Sélectionnez le masque utilisé pour le caissier."
+
+msgid "Select the outlet that this register is assigned to."
+msgstr "Sélectionner le Point de Vente a assigner au caissier."
+
+msgid "Select the product category which contains the products you want to add."
+msgstr ""
+"Sélectionnez la catégorie de produit qui contient les produits que vous "
+"voulez ajouter."
+
+msgid "Select the product grid that this register will use."
+msgstr "Sélectionner la grille de produit que le caissier utilisera."
+
+msgid "Select the product which this tile will represent."
+msgstr "Séléctionner le produit que la vignette représentera."
+
+msgid "Select the receipt template that this register will use."
+msgstr "Sélectionner le modèle de reçu qui sera utilisé par ce caissier."
+
+msgid "Select the text colour for this tile."
+msgstr "Sélectionner de la couleur du texte pour cette vignette."
+
+msgid "Select variation"
+msgstr "Sélectionner la variation"
+
+msgid "Select whether to add a note at end of sale."
+msgstr "Sélectionner si une note doit être ajoutée en fin de vente."
+
+msgid "Select whether to email receipt at end of sale."
+msgstr "Sélectionner si un reçu doit être imprimé en fin de vente."
+
+msgid "Select whether to print receipt at end of sale."
+msgstr "Sélectionner si un reçu doit être imprimé en fin de vente."
+
+msgid "Select whether user to be changed at end of sale."
+msgstr "Sélectionner si un changement d'utilisateur doit être fait en fin de vente."
+
+msgid "Selected product is already a tile."
+msgstr "Le produit sélectionné est déjà dans une vignette."
+
+msgid "Selected product is already added. Change it, please."
+msgstr "Le produit sélectionné est déjà ajouté. Remplacez-le s'il vous plait !"
+
+msgid "Selection the Default Section for this using variations."
+msgstr "Sélectionner la section par défaut pour utiliser les variations."
+
+msgid "Served By Label"
+msgstr "Servi par étiquette"
+
+msgid "Served by"
+msgstr "Servi par"
+
+msgid "Set Receipt Logo"
+msgstr "Régler logo du reçu"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Ship to"
+msgstr "Expédié à"
+
+msgid "Shipping"
+msgstr "Expédition"
+
+msgid "Shipping #%d"
+msgstr "Livraison #%d"
+
+msgid "Shipping Address"
+msgstr "Adresse de livraison"
+
+msgid "Shipping and Handling"
+msgstr "Livraison et manutention"
+
+msgid "Show all outlets"
+msgstr "Afficher tous les magasins"
+
+msgid "Skip to main content"
+msgstr "Passer au contenu principal"
+
+msgid "Slug"
+msgstr "Attribut"
+
+msgid "Slug “%s” is already in use. Change it, please."
+msgstr "L'attribut \"%s\" est déjà utilisé. Veuillez le changer s'il vous plait."
+
+msgid "Slug “%s” is not allowed because it is a reserved term. Change it, please."
+msgstr "L'attribut “%s”n'est pas autorisé. Changez le , s'il vous plait."
+
+msgid "Slug “%s” is too long (28 characters max). Shorten it, please."
+msgstr ""
+"L'attribut “%s”  est trop long (28 characters max). Raccourcissez-le s'il "
+"vous plait."
+
+msgid "Social Details"
+msgstr "Détails des Réseaux Sociaux"
+
+msgid "Sorry, this product cannot be purchased."
+msgstr "Désolé, ce produit ne peut être acheté."
+
+msgid "Subtotal"
+msgstr "Sous-total"
+
+msgid "Suffix"
+msgstr "Suffixe"
+
+msgid "Take over"
+msgstr "Prendre la main"
+
+msgid "Tax"
+msgstr "TVA"
+
+msgid "Tax Calculation"
+msgstr "Calcul de la TVA"
+
+msgid "Tax Label"
+msgstr "Etiquette la valeur de la taxe"
+
+msgid "Tax Number"
+msgstr "Valeur de la taxe"
+
+msgid "Tax Number Label"
+msgstr "Etiquette la valeur de la taxe"
+
+msgid "Tax Options"
+msgstr "Options de la Taxe"
+
+msgid "Tel"
+msgstr "Téléphone"
+
+msgid "Telephone Label"
+msgstr "Etiquette adressse"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+msgid "The Facebook page of the outlet e.g. for facebook.com/acme enter just \"acme\"."
+msgstr "La page Facebook du magasin e.g. pour facebook.com/acme juste entrer  \"acme\"."
+
+msgid "The Twitter name of the outlet e.g. for twitter.com/acme enter just \"acme\"."
+msgstr "La page Twitter du magasin e.g. pour twitter.com/acme juste entrer  \"acme\"."
+
+msgid "The address of the outlet at which the register will be located."
+msgstr "L'adresse du point de Vente où l'enregistrement sera localisée."
+
+msgid "The name of the outlet as it appears when opening a register."
+msgstr "Le nom du magasin est celui qui apparaitra lorsque la caisse sera ouverte"
+
+msgid "The name of the register that will appear when opening it."
+msgstr "Le nom du caissier qui apparaitra quand il sera ouvert."
+
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+"Il semble qu'il n'y ai aucune méthode de livraison disponible. Veuillez "
+"vérifier votre adresse ou contactez nous si vous avez besoin d'aide."
+
+msgid "This Register"
+msgstr "Ce caissier"
+
+msgid "Tile added successfully."
+msgstr "Vignette(s) ajoutée(s) avec succès."
+
+msgid "Tile deleted successfully."
+msgstr "Vignette(s) supprimée(s) avec succès."
+
+msgid "Tile updated."
+msgstr "Vignette mis à jour"
+
+msgid "Tiles"
+msgstr "Vignettes"
+
+msgid "Tiles not found."
+msgstr "Vignettes introuvables."
+
+msgid ""
+"To configure each payment gateway, please go to the Checkout tab under "
+"WooCommerce > Settings or click <a href=\"admin.php?page=wc-"
+"settings&tab=checkout\">here</a>"
+msgstr ""
+"Pour configurer chaque passerelle de paierment, merci d'aller dans l'onglet "
+"\"Commandes\" dans WooCommerce > Réglages <a href=\"admin.php?page=wc-"
+"settings&tab=checkout\">ICI</a>"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total Label"
+msgstr "Etiquette Label"
+
+msgid "Type"
+msgstr "Type"
+
+msgid ""
+"Unfortunately, the tax configuration of WooCommerce is not set up/enabled, "
+"tax calculation features are limited."
+msgstr ""
+"Malheureusement, la  configuration de la taxe dans WooCommerce n'est pas "
+"configurée/activée. Le calcul de la taxe sera limité."
+
+msgid "Unique slug/reference for the grid; must be shorter than 28 characters."
+msgstr "Attribut/référence unique pour la grille, doit avoir moins de 28 caractères."
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "User already exists."
+msgstr "Cet utilisateur existe déjà."
+
+msgid "Username"
+msgstr "Identifiant"
+
+msgid "Variation"
+msgstr "Variation"
+
+msgid "Variation ID:"
+msgstr "ID variation :"
+
+msgid "Void"
+msgstr "Annuler"
+
+msgid "Void Order"
+msgstr "Annuler achat"
+
+msgid "We&#8217;re backing up this post in your browser, just in case."
+msgstr "Nous sauvegardons cet article dans votre navigateur, par sécurité."
+
+msgid "Website"
+msgstr "Site Web"
+
+msgid "Website Label"
+msgstr "Etiquette du site Web"
+
+msgid "WordPress Admin Bar"
+msgstr "Barre d'administration du site"
+
+msgid "You do not have permission to access this register."
+msgstr "Vous n'avez pas la permission d'accéder à ce caissier"
+
+msgid "Your settings have been saved."
+msgstr "Vos réglages ont été sauvegardés."
+
+msgid "grid-table"
+msgstr "Table-grille"
+
+msgid "grids-table"
+msgstr "Table-grilles"
+
+msgid "outlets_table"
+msgstr "Table_PointdeVente"
+
+msgid "outlets_tables"
+msgstr "Tables_PointdeVente"
+
+msgid "receipts_table"
+msgstr "Table_reçus"
+
+msgid "receipts_tables"
+msgstr "Tables_reçus"
+
+msgid "registers_table"
+msgstr "caissiers_table"
+
+msgid "registers_tables"
+msgstr "caissiers_tables"
+
+msgid "tiles_table"
+msgstr "vignettes_table"
+
+msgid "tiles_tables"
+msgstr "vignettes_tables"
+
+msgid "users_table"
+msgstr "utilisateurs_table"
+
+msgid "users_tables"
+msgstr "utilisateurs_tables"

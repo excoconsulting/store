@@ -1,0 +1,246 @@
+# Translation of WooCommerce - Checkout Field Editor in Japanese
+# This file is distributed under the same license as the WooCommerce - Checkout Field Editor package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-02-12 05:30:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.2.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: WooCommerce - Checkout Field Editor\n"
+
+#. Description of the plugin/theme
+msgid "Add, remove and modifiy fields shown on your WooCommerce checkout page."
+msgstr "WooCommerce 購入手続きページで表示されるフィールドを追加・削除・編集できます。"
+
+#: classes/class-wc-checkout-field-editor.php:603
+msgid "Your changes were not saved due to an error (or you made none!)."
+msgstr "エラーが発生したため変更を保存できませんでした (または変更が加えられていませんでした) 。"
+
+#: classes/class-wc-checkout-field-editor.php:601
+msgid "Your changes were saved."
+msgstr "変更を保存しました。"
+
+#: classes/class-wc-checkout-field-editor.php:469
+msgctxt "placeholder"
+msgid "Notes about your order, e.g. special notes for delivery."
+msgstr "ご注文に関しての特記事項 (例: 配送についての注意)"
+
+#: classes/class-wc-checkout-field-editor.php:468
+msgid "Order Notes"
+msgstr "注文メモ"
+
+#: classes/class-wc-checkout-field-editor.php:444
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: classes/class-wc-checkout-field-editor.php:354
+msgid "This field cannot be modified."
+msgstr "このフィールドは変更できません。"
+
+#: classes/class-wc-checkout-field-editor.php:352
+#: classes/class-wc-checkout-field-editor.php:373
+#: classes/class-wc-checkout-field-editor.php:389
+msgid "This field is address locale dependent and cannot be modified."
+msgstr "このフィールドは住所のロケールに依存しており、編集できません。"
+
+#: classes/class-wc-checkout-field-editor.php:261
+#: classes/class-wc-checkout-field-editor.php:392
+msgid "Pipe (|) separate options."
+msgstr "パイプ (|) 区切りオプション。"
+
+#: classes/class-wc-checkout-field-editor.php:233
+msgid "The fields above show beneath the billing and shipping sections on the checkout page."
+msgstr "上記のフィールドは購入手続きページの請求・配送セクションの下に表示されます。"
+
+#: classes/class-wc-checkout-field-editor.php:230
+msgid "The fields above show in the \"shipping information\" section of the checkout page. <strong>Disabling core fields can cause unexpected results with some plugins; we recommend against this if possible.</strong>"
+msgstr "上記のフィールドは購入手続きページの「配送情報」セクション内に表示されます。<strong>コアフィールドを無効化すると一部のプラグインで予期しない結果が起こることがあります。もし可能なら無効化しないことをおすすめします。</strong>"
+
+#: classes/class-wc-checkout-field-editor.php:227
+msgid "The fields above show in the \"billing information\" section of the checkout page. <strong>Disabling core fields can cause unexpected results with some plugins; we recommend against this if possible.</strong>"
+msgstr "上記のフィールドは購入手続きページの「請求情報」セクション内に表示されます。<strong>コアフィールドを無効化すると一部のプラグインで予期しない結果が起こることがあります。もし可能なら無効化しないことをおすすめします。</strong>"
+
+#: classes/class-wc-checkout-field-editor.php:222
+msgid "Disable/Remove Checked"
+msgstr "チェックしたものを無効化/削除"
+
+#: classes/class-wc-checkout-field-editor.php:221
+msgid "Enable Checked"
+msgstr "チェックしたものを有効化"
+
+#: classes/class-wc-checkout-field-editor.php:220
+msgid "+ Add field"
+msgstr "+ フィールドを追加"
+
+#: classes/class-wc-checkout-field-editor.php:214
+msgid "Display Options"
+msgstr "表示オプション"
+
+#: classes/class-wc-checkout-field-editor.php:213
+msgid "Validation Rules"
+msgstr "検証ルール"
+
+#: classes/class-wc-checkout-field-editor.php:212
+msgid "Clear Row"
+msgstr "行をクリア"
+
+#: classes/class-wc-checkout-field-editor.php:211
+msgid "Position"
+msgstr "位置"
+
+#: classes/class-wc-checkout-field-editor.php:210
+msgid "Placeholder / Option Values"
+msgstr "プレースホルダー / オプション値"
+
+#: classes/class-wc-checkout-field-editor.php:209
+msgid "Label"
+msgstr "ラベル"
+
+#: classes/class-wc-checkout-field-editor.php:208
+msgid "Type"
+msgstr "種類"
+
+#: classes/class-wc-checkout-field-editor.php:207
+msgid "Name"
+msgstr "名称"
+
+#: classes/class-wc-checkout-field-editor.php:198
+msgid "Order Detail Pages"
+msgstr "注文詳細ページ"
+
+#: classes/class-wc-checkout-field-editor.php:197
+msgid "Emails"
+msgstr "メールアドレス"
+
+#: classes/class-wc-checkout-field-editor.php:193
+msgid "Right"
+msgstr "右"
+
+#: classes/class-wc-checkout-field-editor.php:192
+msgid "Full-width"
+msgstr "全幅"
+
+#: classes/class-wc-checkout-field-editor.php:191
+msgid "Left"
+msgstr "左"
+
+#: classes/class-wc-checkout-field-editor.php:187
+msgid "Heading"
+msgstr "見出し"
+
+#: classes/class-wc-checkout-field-editor.php:186
+msgid "Date Picker"
+msgstr "日付ピッカー"
+
+#: classes/class-wc-checkout-field-editor.php:185
+msgid "Checkbox"
+msgstr "チェックボックス"
+
+#: classes/class-wc-checkout-field-editor.php:184
+msgid "Radio"
+msgstr "ラジオボタン"
+
+#: classes/class-wc-checkout-field-editor.php:183
+msgid "Multiselect"
+msgstr "複数選択"
+
+#: classes/class-wc-checkout-field-editor.php:180
+msgid "Select"
+msgstr "選択"
+
+#: classes/class-wc-checkout-field-editor.php:179
+msgid "Textarea"
+msgstr "テキストエリア"
+
+#: classes/class-wc-checkout-field-editor.php:178
+msgid "Password"
+msgstr "パスワード"
+
+#: classes/class-wc-checkout-field-editor.php:177
+msgid "Text"
+msgstr "テキスト"
+
+#: classes/class-wc-checkout-field-editor.php:173
+msgid "Number"
+msgstr "数字"
+
+#: classes/class-wc-checkout-field-editor.php:172
+msgid "Email"
+msgstr "メールアドレス"
+
+#: classes/class-wc-checkout-field-editor.php:171
+msgid "Required"
+msgstr "必須"
+
+#: classes/class-wc-checkout-field-editor.php:154
+msgid "Fields"
+msgstr "項目"
+
+#: classes/class-wc-checkout-field-editor.php:132
+msgid "Checkout fields successfully reset"
+msgstr "購入手続きフィールドをリセットしました"
+
+#: classes/class-wc-checkout-field-editor.php:111
+msgid "This tool will remove all customizations made to the checkout fields using the checkout field editor."
+msgstr "このツールは購入手続きフィールドエディターを使って加えられたカスタマイズをすべて削除します。"
+
+#: classes/class-wc-checkout-field-editor.php:110
+msgid "Reset Checkout Fields"
+msgstr "購入手続きフィールドをリセット"
+
+#: classes/class-wc-checkout-field-editor.php:93
+msgid "Dismiss"
+msgstr "非表示にする"
+
+#: classes/class-wc-checkout-field-editor.php:93
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: classes/class-wc-checkout-field-editor.php:92
+msgid "<strong>Checkout field editor is ready</strong> &#8211; Customise your forms below :)"
+msgstr "<strong>購入手続きフィールドエディターがご利用いただけます。</strong> &#8211; 以下からフォームをカスタマイズしてください。"
+
+#: classes/class-wc-checkout-field-editor.php:47
+#: classes/class-wc-checkout-field-editor.php:109
+msgid "Checkout Fields"
+msgstr "購入手続きフィールド"
+
+#: checkout-field-editor.php:422
+msgid "(%s) is not a valid email address."
+msgstr "(%s) は有効なメールアドレスではありません。"
+
+#: checkout-field-editor.php:410 checkout-field-editor.php:412
+msgid "(%s) is not a valid number."
+msgstr "(%s) は有効な数字ではありません。"
+
+#: checkout-field-editor.php:359
+msgid "Select some options"
+msgstr "オプションを選択してください"
+
+#: checkout-field-editor.php:262 checkout-field-editor.php:301
+#: checkout-field-editor.php:337
+msgid "required"
+msgstr "必須"
+
+#. Author URI of the plugin/theme
+msgid "http://woothemes.com"
+msgstr "http://woothemes.com"
+
+#. Author of the plugin/theme
+msgid "WooThemes"
+msgstr "WooThemes"
+
+#. Plugin URI of the plugin/theme
+msgid "http://woothemes.com/woocommerce/"
+msgstr "http://woothemes.com/woocommerce/"
+
+#: classes/class-wc-checkout-field-editor.php:61
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Checkout Field Editor"
+msgstr "WooCommerce Checkout Field Editor"

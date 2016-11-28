@@ -1,0 +1,108 @@
+*** WooCommerce Cart Add-ons ***
+
+2016.03.03 - version 1.5.12
+ * Bug fix: Fixed product add-ons getting overwritten by the defaults when the number of product add-ons is less than the max add-ons to display
+
+2016.01.25 - version 1.5.11
+ * Bug fix: Synced up version numbers
+
+2016.01.14 - version 1.5.10
+ * Bug fix: Replace deprecated woocommerce_get_template with wc_get_template
+ * Bug fix: Wrong number of add-ons are getting displayed if one of the add-ons are also in the cart
+ * Bug fix: WooCommerce 2.5 compatibility fixes
+
+2015.09.21 - version 1.5.9
+ * Bug fix: Fixed variation ID showing with product title
+ * Bug fix: Fixed invalid argument errors when installing
+
+2015.07.30 - version 1.5.8
+ * Improvement: Support for WooCommerce 2.4
+ * Bug fix: Fixed typo for products not being returned
+ * Bug fix: Fixed issue where deleted product as add-ons would cause fatal error
+
+2015.07.08 - version 1.5.7
+ * Bug fix: Switch from using get_formatted_name to get_title
+ * Improvement: Support variations within the product add-on settings
+
+2015.01.31 - version 1.5.6
+ * Backwards and forwards compatibility for WooCommerce 2.3
+
+2014.10.30 - version 1.5.5
+ * Bug fix: Fixed situation where wrong number of products might show
+
+2014.08.20 - version 1.5.4
+ * Added: Version check prior to loading scripts (WooCommerce 2.2 compatibility)
+
+2014.06.27 - version 1.5.3
+ * Bug fix: Fixed variable product functionality related to categories
+ * Bug fix: Fixed issue related to looking up categories for variable products
+ 
+2014.03.21 - version 1.5.2
+ * Bug fix: Added gettext to support additional translatable strings
+
+2014.02.10 - version 1.5.1
+ * Bug fix: Added prevention for unexpected translated text breaking settings
+
+2014.01.08 - version 1.5
+ * Added: WooCommerce 2.1 compatibility
+
+2013.08.12 - version 1.4.5
+ * Fix: Cleanup wp_enqueue_style CSS to only load on specific admin views
+
+2013.06.28 - version 1.4.4
+ * Fix: Remove showing price twice in some views of variations
+ * Fix: Use get_formatted_product_name()
+ * Fix: Remove erroneous error message display
+
+2013.05.22 - version 1.4.3
+ * Fix: Fixed variation product link. Please add images to your variation products
+ * Added: Add to cart logic to show add-to-cart button with add-ons
+
+2013.05.21 - version 1.4.2
+ * Fix: Escaping html in settings for correct display of variations
+
+2013.05.20 - version 1.4.1
+ * Fix: Added product class to variations as WooCommerce did not natively support them when displaying up-sells on-screen
+
+2013.05.09 - version 1.4
+ * Improvement: Added support for variations
+ * Feature: Added option to add AJAX-y "Add to Cart" button to add-on display
+
+2013.04.05 - version 1.3.2
+ * Improvement: Only load admin scripts within plugin settings pages
+
+2013.02.08 - version 1.3.1
+ * Fixed issue where use of [shortcode] was displaying post content
+
+2013.01.26 - version 1.3
+ * 2.0 compatibility
+
+2012.12.05 - version 1.2.2
+ * Fix shortcode display
+
+2012.12.04 - version 1.2.1
+ * New updater
+
+2012.10.31 - version 1.2
+ * Added shortcode [display-addons] to use on any page/post
+
+2012.09.22 - version 1.1.1
+ * Give the masses back their apostrophes
+
+2012.09.17 - version 1.1
+ * Changed settings screen drag/drop
+ * Added widgets to show up-sells anywhere in sidebars once products added to cart
+ * Use <?php if (function_exists('sfn_display_cart_addons')) sfn_display_cart_addons(); ?> to show up-sells anywhere in your theme once products are added to cart
+ * Setting to limit how many up-sells are shown
+
+2012.09.10 - version 1.0.3
+ * Read shop loop from current theme
+
+2012.07.25 - version 1.0.2
+ * Fixed admin display CSS
+
+2012.07.20 - version 1.0.1
+ * Added WooCommerce 1.6.1 compatibility updates
+
+2012.07.19 - version 1.0
+ * First release

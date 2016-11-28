@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Terms & Conditions Popup\n"
+"POT-Creation-Date: 2015-11-11 22:00+0700\n"
+"PO-Revision-Date: 2015-11-11 22:01+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/class-wc-admin-terms-conditions-popup.php:30
+msgid "Terms & Conditions Popup"
+msgstr "Conditions & Conditions Popup"
+
+#: includes/admin/class-wc-admin-terms-conditions-popup.php:31
+msgid "Add an \"Agree\" and \"Decline\" button"
+msgstr "Ajouter un bouton « J'accepte » et « Baisse »"
+
+#: includes/admin/class-wc-admin-terms-conditions-popup.php:35
+msgid ""
+"This forces the user to scroll to the bottom of the popup to click either "
+"the \"Agree\" or \"Decline\" button."
+msgstr ""
+"Cela oblige l'utilisateur de faire défiler vers le bas de la fenêtre "
+"contextuelle de cliquer sur le bouton « J'accepte » ou « Refuser »."
+
+#: woocommerce-terms-conditions-popup.php:149
+msgid "Agree"
+msgstr "Accepter"
+
+#: woocommerce-terms-conditions-popup.php:152
+msgid "Decline"
+msgstr "Refuser"

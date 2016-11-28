@@ -1,0 +1,63 @@
+# Copyright (C) 2016 WooThemes / SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Nested Category Layout 1.9.0\n"
+"Report-Msgid-Bugs-To: https://support.woothemes.com/hc/\n"
+"POT-Creation-Date: 2014-06-15 22:41:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: templates/loop/nested-category.php:82
+msgid "See more"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Nested Category Layout"
+msgstr ""
+
+#: woocommerce-nested-category-layout.php:354
+msgid "Catalog Pages by Category"
+msgstr ""
+
+#: woocommerce-nested-category-layout.php:356
+msgid ""
+"The following options determine which catalog pages will display nested "
+"subcategories and products."
+msgstr ""
+
+#: woocommerce-nested-category-layout.php:361
+msgid "Products per Subcategory"
+msgstr ""
+
+#: woocommerce-nested-category-layout.php:362
+msgid "The number of products to display per subcategory"
+msgstr ""
+
+#: woocommerce-nested-category-layout.php:371
+msgid "Show products/subcategories"
+msgstr ""
+
+#: woocommerce-nested-category-layout.php:372
+msgid "Shop Page"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woothemes.com/products/woocommerce-nested-category-layout/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "WooCommerce Nested Category Catalog Page Layout"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes / SkyVerge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.woothemes.com"
+msgstr ""

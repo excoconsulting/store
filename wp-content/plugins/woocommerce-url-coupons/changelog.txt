@@ -1,0 +1,102 @@
+*** WooCommerce URL Coupons Changelog ***
+
+2016.08.10 - version 2.3.1
+ * Fix - When coupons are hidden on the cart and / or checkout, and a coupon is removed, it's not being removed from the cart
+
+2016.06.02 - version 2.3.0
+ * Misc - Added support for WooCommerce 2.6
+ * Misc - Removed support for WooCommerce 2.3
+
+2016.05.11 - version 2.2.1
+ * Fix - Prevent adding a product multiple times to cart when the coupon has defer apply, a required product and a different product that is set to be added to cart
+ * Misc - Added filters to set default values when creating a new URL Coupon in admin edit screen
+
+2016.01.14 - version 2.2.0
+ * Fix - Improved add to cart validation handling: products that require user input will not be added to cart via URL Coupon
+ * Misc - Added support for WooCommerce 2.5
+ * Misc - Removed support for WooCommerce 2.2
+
+2015.12.18 - version 2.1.7
+ * Fix - URL Coupon redirects did not work properly
+
+2015.12.17 - version 2.1.6
+ * Fix - Dropdown to choose a page to redirect to did not return results
+
+2015.12.11 - version 2.1.5
+ * Tweak - Use ajax search in dropdown to choose a redirect page (WooCommerce 2.3+)
+ * Fix - When coupon url is the same as the slug of the page that triggers the coupon, an extra notice might be shown
+
+2015.11.19 - version 2.1.4
+ * Fix - Fix the URL Coupons settings display in WC 2.4+
+
+2015.11.18 - version 2.1.3
+ * Tweak - Limit the number of taxonomy terms displayed in the Page Redirect select
+ * Fix - Prevent delayed notices after a deferred coupon has been applied
+
+2015.09.25 - version 2.1.2
+ * Fix - Fix adding deferred coupons to the cart when the coupon code field is hidden
+
+2015.09.15 - version 2.1.1
+ * Fix - Ensure the Redirect meta does not get cleared when updating a coupon
+
+2015.07.28 - version 2.1.0
+ * Fix - Page Redirect select value displaying the wrong page in the admin
+ * Misc - WooCommerce 2.4 Compatibility
+
+2015.07.20 - version 2.0.1
+ * Fix - Fix a rare redirect issue
+ * Fix - Fix the coupon code field displaying on the cart page even when you've opted to hide it
+
+2015.05.21 - version 2.0.0
+ * Feature - Added an option to defer applying the URL coupons until the customer's cart meets the coupon's requirements
+ * Feature - No more page redirect limits! You can select a post category/tag, or product category/tag to redirect to.
+ * Feature - When viewing the Coupon list in the admin, you can now see the unique URL slug for each coupon
+ * Tweak - Improved redirects to product pages
+ * Fix - Fixed issue where coupons couldn't be automatically removed when invalid if the coupon field was hidden on the cart page
+ * Fix - Escape all instances of add_query_arg and remove_query_arg to avoid a potential XSS attack
+ * Fix - Attach Chosen.js to form fields only if Select2 is not available
+
+2015.04.21 - version 1.3.2
+ * Fix - Potential XSS with add_query_arg
+
+2015.03.20 - version 1.3.1
+ * Fix - Corrects validation of URL coupons that have a minimum amount set
+
+2015.02.09 - version 1.3.0
+ * Misc - WooCommerce 2.3 Compatibility
+
+2014.01.20 - version 1.2.3
+ * Fix - Fix situations where URL coupons couldn't be applied if the visitor had not added an item to the cart first
+
+2014.09.07 - version 1.2.2
+ * Misc - WooCommerce 2.2 Compatibility
+
+2014.08.19 - version 1.2.1
+ * Fix - Don't apply the coupon if it has already been applied
+
+2014.05.28 - version 1.2
+ * Feature - Added an option to force coupons to be applied when visiting the unique URL
+ * Feature - You can now hide the coupon code field from the cart or checkout page
+ * Feature - URL Coupon column headers are now included in the Smart Coupon CSV export
+
+2014.01.20 - version 1.1
+ * Misc - WooCommerce 2.1 compatibility
+ * Misc - Uses SkyVerge Plugin Framework
+ * Localization - Text domain changed from `wc-url-coupons` to `woocommerce-url-coupons`
+
+2013.11.09 - version 1.0.4
+ * Tweak - URLs are lower-cased before comparison
+ * Fix - Fixed notices when loading active URLs
+
+2013.08.23 - version 1.0.3
+ * Tweak - Prevent possible errors when including a product to be added to the cart when a coupon is applied
+
+2013.07.26 - version 1.0.2
+ * Feature - You can now choose the homepage or product pages to redirect to!
+ * Fix - Deactivate unique URLs when their parent coupon is trashed or deleted
+
+2013.06.28 - version 1.0.1
+ * Fix - Compatibility with sites hosted in a sub-directory
+
+2013.03.14 - version 1.0
+ * Initial Release

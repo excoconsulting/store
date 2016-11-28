@@ -1,0 +1,68 @@
+*** WooCommerce Conditional Shipping and Payments ***
+
+2016.06.28 - version 1.2.1
+ * Fix - "Add Condition" button not working under WC 2.6.
+ * Tweak - Refactored logic for adding conditions, now based on JS templates - see 'WC_CSP_Conditions::print_condition_field_scripts()'.
+
+2016.05.30 - version 1.2.0
+ * Important - Added support for WooCommerce 2.6 and WC 2.6 Shipping Zones. To ensure that your shipping method restrictions still work after the WC 2.6 update, please ensure that WooCommerce Conditional Shipping and Payments has been updated to version 1.2.0 before running the WC 2.6 data update routine! 
+ * Important - WC 2.6 has introduced irreversible changes to shipping rate IDs. In some cases, the update may break existing shipping method restrictions/conditions. Please review any existing shipping method restriction settings after running the WC 2.6 update routine!
+ * Feature - Ability to create shipping method restrictions based on custom shipping rate IDs ("Exclude Shipping Rate IDs" field).
+ * Tweak - After updating to WC 2.6, it is no longer possible to choose specific Table Rate Shipping / Flat Rate Boxes rates when defining Shipping Method restrictions. Instead, this is now possible by making use of the newly introduced "Exclude Shipping Rate IDs" field.
+ * Tweak - After updating to WC 2.6, it is no longer possible to create Shipping Method conditions based on specific Table Rate Shipping / Flat Rate Boxes rates. Following the introduction of Shipping Zones in WC, Shipping Method conditions can only be based on shipping method instances.
+ * Tweak - Reviewed translatable strings and replaced static variable with string in all 'gettext' function calls.
+
+2015.12.08 - version 1.1.11
+ * Fix - WC 2.5 support.
+ * Fix - When the id of a shipping rate started with a string equal to the id of another, excluded rate, then the former one would get excluded, too.
+
+2015.11.04 - version 1.1.10
+ * Feature - Customer Role condition.
+ * Feature - Added 'Restrictions Overview' section in the Restrictions tab under WooCommerce > Settings.
+ * Tweak - Simplified restriction settings markup.
+
+2015.09.20 - version 1.1.9
+ * Fix - Amazon Payments support.
+
+2015.08.25 - version 1.1.8
+ * Fix - Fatal error when attempting to get call 'get_available_payment_gateways()' from an admin page.
+
+2015.08.19 - version 1.1.7
+ * Fix - Show "Customer" condition in product-level restrictions.
+
+2015.08.18 - version 1.1.6
+ * Fix - Support for Flat Rate Boxes Shipping: Allow exclusions by method id.
+ * Feature - Added new "Customer" condition to enable/disable restrictions by customer e-mail.
+
+2015.07.21 - version 1.1.5
+ * Fix - Minor admin styling fixes for WC 2.4.
+ * Fix - WC 2.4 support: Enable deprecated add-on flat rate options in the Shipping settings panel.
+
+2015.05.21 - version 1.1.4
+ * Fix - WC 2.2 JS chosen compatibility.
+
+2015.04.20 - version 1.1.3
+ * Fix - Add support for payment gateway rules at the checkout->pay endpoint.
+ * Fix - Shipping classes conditions when shipping class defined at variation level.
+ * Fix - Duplicate shipping method checkout notices.
+ * Feature - Added 'not in' Category and Shipping Class condition modifiers, which can be used, for example, to always exclude a payment gateway ** unless ** a product from the specified categories is present in the cart.
+
+2015.04.01 - version 1.1.2
+ * Fix - Support non-core Shipping Methods.
+
+2015.03.30 - version 1.1.1
+ * Feature - Support Table Rate Shipping rates in Shipping Method restrictions and conditions.
+ * Feature - 'is not' modifier for the Billing Country and Shipping Country/State conditions.
+ * Fix - Update checkout fields on State change.
+
+2015.03.17 - version 1.1.0
+ * Feature - Support add-on flat rates in the 'Shipping Method' condition.
+ * Tweak - Updated conditions UI.
+ * Fix - Missing 'State / County' string in resolution messages under specific conditions.
+ * Dev - Refactored conditions API.
+
+2015.03.03 - version 1.0.1
+ * Fix - select2 localization in WC 2.3.6+.
+
+2015.02.20 - version 1.0.0
+ * Initial Release
